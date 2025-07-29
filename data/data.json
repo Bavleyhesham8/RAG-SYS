@@ -1,0 +1,3726 @@
+[
+  {
+    "context": {
+      "ar": "القطط حيوانات أليفة تتميز بحركتها السريعة والمرونة، وتحب اللعب والنوم لفترات طويلة.",
+      "en": "Cats are pet animals known for their quick movements and flexibility, and they love playing and sleeping for long periods."
+    },
+    "question": {
+      "ar": "ما هي صفات القطط؟",
+      "en": "What are the characteristics of cats?"
+    },
+    "answer": {
+      "ar": "القطط سريعة، مرنة، وتحب اللعب والنوم.",
+      "en": "Cats are fast, flexible, and love playing and sleeping."
+    }
+  },
+  {
+    "context": {
+      "ar": "الكلاب وفية وتُستخدم في الحراسة والصيد، وتُعتبر أفضل صديق للإنسان.",
+      "en": "Dogs are loyal animals used for guarding and hunting, considered man's best friend."
+    },
+    "question": {
+      "ar": "كيف تتصرف الكلاب؟",
+      "en": "How do dogs behave?"
+    },
+    "answer": {
+      "ar": "الكلاب وفية وتُستخدم في الحراسة.",
+      "en": "Dogs are loyal and used for guarding."
+    }
+  },
+  {
+    "context": {
+      "en": "Photosynthesis is the process plants use to convert sunlight into energy, releasing oxygen as a byproduct.",
+      "ar": "التمثيل الضوئي هي العملية التي تستخدمها النباتات لتحويل ضوء الشمس إلى طاقة، مع إطلاق الأكسجين كناتج ثانوي."
+    },
+    "question": {
+      "en": "What is photosynthesis?",
+      "ar": "ما هو التمثيل الضوئي؟"
+    },
+    "answer": {
+      "en": "Process converting sunlight to energy in plants.",
+      "ar": "عملية تحويل ضوء الشمس إلى طاقة في النباتات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Great Wall of China stretches over 13,000 miles and was built to protect against invasions.",
+      "ar": "يمتد سور الصين العظيم لأكثر من 13,000 ميل وقد بُنِي للحماية من الغزوات."
+    },
+    "question": {
+      "en": "Why was the Great Wall built?",
+      "ar": "لماذا بُنِي سور الصين العظيم؟"
+    },
+    "answer": {
+      "en": "Protection against invasions.",
+      "ar": "للحماية من الغزوات."
+    }
+  },
+  {
+    "context": {
+      "en": "Newton's Third Law states that every action has an equal and opposite reaction.",
+      "ar": "ينص قانون نيوتن الثالث على أن لكل فعل رد فعل مساوٍ له في المقدار ومعاكس في الاتجاه."
+    },
+    "question": {
+      "en": "What does Newton's Third Law state?",
+      "ar": "ماذا ينص قانون نيوتن الثالث؟"
+    },
+    "answer": {
+      "en": "Every action has equal/opposite reaction.",
+      "ar": "لكل فعل رد فعل مساوٍ في المقدار ومعاكس في الاتجاه."
+    }
+  },
+  {
+    "context": {
+      "en": "The Nile River is the world's longest river, flowing through 11 African countries.",
+      "ar": "نهر النيل هو أطول أنهار العالم، ويجري عبر 11 دولة أفريقية."
+    },
+    "question": {
+      "en": "Which is the world's longest river?",
+      "ar": "ما هو أطول أنهار العالم؟"
+    },
+    "answer": {
+      "en": "The Nile River.",
+      "ar": "نهر النيل."
+    }
+  },
+  {
+    "context": {
+      "en": "Democracy is a system where citizens exercise power through voting and elected representatives.",
+      "ar": "الديمقراطية هي نظام يمارس فيه المواطنون السلطة عبر التصويت والممثلين المنتخبين."
+    },
+    "question": {
+      "en": "What defines a democracy?",
+      "ar": "ما الذي يعرّف الديمقراطية؟"
+    },
+    "answer": {
+      "en": "Power through voting and elected representatives.",
+      "ar": "ممارسة السلطة عبر التصويت والممثلين المنتخبين."
+    }
+  },
+    {
+    "context": {
+      "en": "The speed of light is approximately 299,792 kilometers per second, making it the fastest thing in the universe.",
+      "ar": "تبلغ سرعة الضوء حوالي 299,792 كيلومتر في الثانية، مما يجعلها أسرع شيء في الكون."
+    },
+    "question": {
+      "en": "What is the speed of light?",
+      "ar": "ما هي سرعة الضوء؟"
+    },
+    "answer": {
+      "en": "Approximately 299,792 km/s.",
+      "ar": "حوالي 299,792 كم/ث."
+    }
+  },
+  {
+    "context": {
+      "en": "DNA, or deoxyribonucleic acid, carries the genetic instructions for the development and functioning of living organisms.",
+      "ar": "الحمض النووي الريبوزي منقوص الأكسجين، أو DNA، يحمل التعليمات الوراثية لتطور ووظائف الكائنات الحية."
+    },
+    "question": {
+      "en": "What does DNA stand for?",
+      "ar": "ما هو المصطلح الكامل لـ DNA؟"
+    },
+    "answer": {
+      "en": "Deoxyribonucleic acid.",
+      "ar": "حمض الديوكسي ريبونوكليك."
+    }
+  },
+  {
+    "context": {
+      "en": "The Milky Way is the galaxy that contains our solar system, and it is estimated to have over 100 billion stars.",
+      "ar": "درب التبانة هي المجرة التي تحتوي على نظامنا الشمسي، ويُقدر أنها تحتوي على أكثر من 100 مليار نجم."
+    },
+    "question": {
+      "en": "What is the name of our galaxy?",
+      "ar": "ما هو اسم مجرتنا؟"
+    },
+    "answer": {
+      "en": "The Milky Way.",
+      "ar": "درب التبانة."
+    }
+  },
+  {
+    "context": {
+      "en": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape from it.",
+      "ar": "الثقب الأسود هو منطقة في الفضاء حيث تكون الجاذبية قوية للغاية لدرجة أن لا شيء، ولا حتى الضوء، يمكنه الفرار منها."
+    },
+    "question": {
+      "en": "What is a black hole?",
+      "ar": "ما هو الثقب الأسود؟"
+    },
+    "answer": {
+      "en": "A region with gravity so strong that nothing can escape.",
+      "ar": "منطقة ذات جاذبية قوية للغاية لا يمكن لأي شيء الفرار منها."
+    }
+  },
+  {
+    "context": {
+      "en": "Vaccines work by stimulating the immune system to recognize and fight pathogens like viruses or bacteria.",
+      "ar": "تعمل اللقاحات عن طريق تحفيز جهاز المناعة على التعرف على مسببات الأمراض مثل الفيروسات أو البكتيريا ومحاربتها."
+    },
+    "question": {
+      "en": "How do vaccines work?",
+      "ar": "كيف تعمل اللقاحات؟"
+    },
+    "answer": {
+      "en": "By stimulating the immune system to fight pathogens.",
+      "ar": "عن طريق تحفيز جهاز المناعة على محاربة مسببات الأمراض."
+    }
+  },
+  {
+    "context": {
+      "en": "Antibiotics are medications used to treat bacterial infections, but they are ineffective against viruses.",
+      "ar": "المضادات الحيوية هي أدوية تستخدم لعلاج الالتهابات البكتيرية، ولكنها غير فعالة ضد الفيروسات."
+    },
+    "question": {
+      "en": "What are antibiotics used for?",
+      "ar": "ما هو استخدام المضادات الحيوية؟"
+    },
+    "answer": {
+      "en": "To treat bacterial infections.",
+      "ar": "لعلاج الالتهابات البكتيرية."
+    }
+  },
+  {
+    "context": {
+      "en": "Haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable pattern.",
+      "ar": "الهيكو هو شكل تقليدي من الشعر الياباني يتكون من ثلاثة أسطر بنمط 5-7-5 مقطعًا لفظيًا."
+    },
+    "question": {
+      "en": "What is a haiku?",
+      "ar": "ما هو الهيكو؟"
+    },
+    "answer": {
+      "en": "A three-line poem with 5-7-5 syllable pattern.",
+      "ar": "قصيدة من ثلاثة أسطر بنمط 5-7-5 مقطعًا لفظيًا."
+    }
+  },
+  {
+    "context": {
+      "en": "Metaphor is a figure of speech that describes an object or action in a way that isn’t literally true but helps explain an idea.",
+      "ar": "الاستعارة هي أسلوب بلاغي يصف شيئًا أو فعلًا بطريقة ليست حقيقية حرفيًا ولكنها تساعد في شرح فكرة."
+    },
+    "question": {
+      "en": "What is a metaphor?",
+      "ar": "ما هي الاستعارة؟"
+    },
+    "answer": {
+      "en": "A figure of speech describing something non-literally to explain an idea.",
+      "ar": "أسلوب بلاغي يصف شيئًا بطريقة غير حرفية لشرح فكرة."
+    }
+  },
+  {
+    "context": {
+      "en": "Paracetamol, also known as acetaminophen, is used to relieve pain and reduce fever.",
+      "ar": "الباراسيتامول، المعروف أيضًا باسم الأسيتامينوفين، يستخدم لتسكين الألم وخفض الحمى."
+    },
+    "question": {
+      "en": "What is paracetamol used for?",
+      "ar": "ما هو استخدام الباراسيتامول؟"
+    },
+    "answer": {
+      "en": "To relieve pain and reduce fever.",
+      "ar": "لتسكين الألم وخفض الحمى."
+    }
+  },
+  {
+    "context": {
+      "en": "Insulin is a hormone used to treat diabetes by regulating blood sugar levels.",
+      "ar": "الأنسولين هو هرمون يستخدم لعلاج مرض السكري عن طريق تنظيم مستويات السكر في الدم."
+    },
+    "question": {
+      "en": "What is insulin used for?",
+      "ar": "ما هو استخدام الأنسولين؟"
+    },
+    "answer": {
+      "en": "To treat diabetes by regulating blood sugar.",
+      "ar": "لعلاج مرض السكري عن طريق تنظيم سكر الدم."
+    }
+  },
+  {
+    "context": {
+      "en": "The Renaissance was a period of cultural rebirth in Europe, starting in the 14th century, marked by advancements in art and science.",
+      "ar": "كانت عصر النهضة فترة من الإحياء الثقافي في أوروبا، بدأت في القرن الرابع عشر، وتميزت بالتقدم في الفن والعلم."
+    },
+    "question": {
+      "en": "What was the Renaissance?",
+      "ar": "ما هي عصر النهضة؟"
+    },
+    "answer": {
+      "en": "A period of cultural rebirth in Europe.",
+      "ar": "فترة من الإحياء الثقافي في أوروبا."
+    }
+  },
+  {
+    "context": {
+      "en": "The Industrial Revolution began in the late 18th century, transforming manufacturing with the introduction of machinery.",
+      "ar": "بدأت الثورة الصناعية في أواخر القرن الثامن عشر، وغيرت التصنيع بإدخال الآلات."
+    },
+    "question": {
+      "en": "When did the Industrial Revolution begin?",
+      "ar": "متى بدأت الثورة الصناعية؟"
+    },
+    "answer": {
+      "en": "Late 18th century.",
+      "ar": "أواخر القرن الثامن عشر."
+    }
+  },
+  {
+    "context": {
+      "en": "The Amazon Rainforest is the largest tropical rainforest in the world, located in South America.",
+      "ar": "غابة الأمازون هي أكبر غابة استوائية في العالم، وتقع في أمريكا الجنوبية."
+    },
+    "question": {
+      "en": "Where is the Amazon Rainforest located?",
+      "ar": "أين تقع غابة الأمازون؟"
+    },
+    "answer": {
+      "en": "South America.",
+      "ar": "أمريكا الجنوبية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Sahara Desert is the largest hot desert in the world, covering much of North Africa.",
+      "ar": "الصحراء الكبرى هي أكبر صحراء حارة في العالم، وتغطي جزءًا كبيرًا من شمال أفريقيا."
+    },
+    "question": {
+      "en": "What is the largest hot desert in the world?",
+      "ar": "ما هي أكبر صحراء حارة في العالم؟"
+    },
+    "answer": {
+      "en": "The Sahara Desert.",
+      "ar": "الصحراء الكبرى."
+    }
+  },
+  {
+    "context": {
+      "en": "The speed of light is approximately 299,792 kilometers per second, making it the fastest thing in the universe.",
+      "ar": "تبلغ سرعة الضوء حوالي 299,792 كيلومتر في الثانية، مما يجعلها أسرع شيء في الكون."
+    },
+    "question": {
+      "en": "What is the speed of light?",
+      "ar": "ما هي سرعة الضوء؟"
+    },
+    "answer": {
+      "en": "Approximately 299,792 km/s.",
+      "ar": "حوالي 299,792 كم/ث."
+    }
+  },
+  {
+    "context": {
+      "en": "DNA, or deoxyribonucleic acid, carries the genetic instructions for the development and functioning of living organisms.",
+      "ar": "الحمض النووي الريبوزي منقوص الأكسجين، أو DNA، يحمل التعليمات الوراثية لتطور ووظائف الكائنات الحية."
+    },
+    "question": {
+      "en": "What does DNA stand for?",
+      "ar": "ما هو المصطلح الكامل لـ DNA؟"
+    },
+    "answer": {
+      "en": "Deoxyribonucleic acid.",
+      "ar": "حمض الديوكسي ريبونوكليك."
+    }
+  },
+  {
+    "context": {
+      "en": "The Milky Way is the galaxy that contains our solar system, and it is estimated to have over 100 billion stars.",
+      "ar": "درب التبانة هي المجرة التي تحتوي على نظامنا الشمسي، ويُقدر أنها تحتوي على أكثر من 100 مليار نجم."
+    },
+    "question": {
+      "en": "What is the name of our galaxy?",
+      "ar": "ما هو اسم مجرتنا؟"
+    },
+    "answer": {
+      "en": "The Milky Way.",
+      "ar": "درب التبانة."
+    }
+  },
+  {
+    "context": {
+      "en": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape from it.",
+      "ar": "الثقب الأسود هو منطقة في الفضاء حيث تكون الجاذبية قوية للغاية لدرجة أن لا شيء، ولا حتى الضوء، يمكنه الفرار منها."
+    },
+    "question": {
+      "en": "What is a black hole?",
+      "ar": "ما هو الثقب الأسود؟"
+    },
+    "answer": {
+      "en": "A region with gravity so strong that nothing can escape.",
+      "ar": "منطقة ذات جاذبية قوية للغاية لا يمكن لأي شيء الفرار منها."
+    }
+  },
+  {
+    "context": {
+      "en": "Vaccines work by stimulating the immune system to recognize and fight pathogens like viruses or bacteria.",
+      "ar": "تعمل اللقاحات عن طريق تحفيز جهاز المناعة على التعرف على مسببات الأمراض مثل الفيروسات أو البكتيريا ومحاربتها."
+    },
+    "question": {
+      "en": "How do vaccines work?",
+      "ar": "كيف تعمل اللقاحات؟"
+    },
+    "answer": {
+      "en": "By stimulating the immune system to fight pathogens.",
+      "ar": "عن طريق تحفيز جهاز المناعة على محاربة مسببات الأمراض."
+    }
+  },
+  {
+    "context": {
+      "en": "Antibiotics are medications used to treat bacterial infections, but they are ineffective against viruses.",
+      "ar": "المضادات الحيوية هي أدوية تستخدم لعلاج الالتهابات البكتيرية، ولكنها غير فعالة ضد الفيروسات."
+    },
+    "question": {
+      "en": "What are antibiotics used for?",
+      "ar": "ما هو استخدام المضادات الحيوية؟"
+    },
+    "answer": {
+      "en": "To treat bacterial infections.",
+      "ar": "لعلاج الالتهابات البكتيرية."
+    }
+  },
+  {
+    "context": {
+      "en": "Haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable pattern.",
+      "ar": "الهيكو هو شكل تقليدي من الشعر الياباني يتكون من ثلاثة أسطر بنمط 5-7-5 مقطعًا لفظيًا."
+    },
+    "question": {
+      "en": "What is a haiku?",
+      "ar": "ما هو الهيكو؟"
+    },
+    "answer": {
+      "en": "A three-line poem with 5-7-5 syllable pattern.",
+      "ar": "قصيدة من ثلاثة أسطر بنمط 5-7-5 مقطعًا لفظيًا."
+    }
+  },
+  {
+    "context": {
+      "en": "Metaphor is a figure of speech that describes an object or action in a way that isn’t literally true but helps explain an idea.",
+      "ar": "الاستعارة هي أسلوب بلاغي يصف شيئًا أو فعلًا بطريقة ليست حقيقية حرفيًا ولكنها تساعد في شرح فكرة."
+    },
+    "question": {
+      "en": "What is a metaphor?",
+      "ar": "ما هي الاستعارة؟"
+    },
+    "answer": {
+      "en": "A figure of speech describing something non-literally to explain an idea.",
+      "ar": "أسلوب بلاغي يصف شيئًا بطريقة غير حرفية لشرح فكرة."
+    }
+  },
+  {
+    "context": {
+      "en": "Paracetamol, also known as acetaminophen, is used to relieve pain and reduce fever.",
+      "ar": "الباراسيتامول، المعروف أيضًا باسم الأسيتامينوفين، يستخدم لتسكين الألم وخفض الحمى."
+    },
+    "question": {
+      "en": "What is paracetamol used for?",
+      "ar": "ما هو استخدام الباراسيتامول؟"
+    },
+    "answer": {
+      "en": "To relieve pain and reduce fever.",
+      "ar": "لتسكين الألم وخفض الحمى."
+    }
+  },
+  {
+    "context": {
+      "en": "Insulin is a hormone used to treat diabetes by regulating blood sugar levels.",
+      "ar": "الأنسولين هو هرمون يستخدم لعلاج مرض السكري عن طريق تنظيم مستويات السكر في الدم."
+    },
+    "question": {
+      "en": "What is insulin used for?",
+      "ar": "ما هو استخدام الأنسولين؟"
+    },
+    "answer": {
+      "en": "To treat diabetes by regulating blood sugar.",
+      "ar": "لعلاج مرض السكري عن طريق تنظيم سكر الدم."
+    }
+  },
+  {
+    "context": {
+      "en": "The Renaissance was a period of cultural rebirth in Europe, starting in the 14th century, marked by advancements in art and science.",
+      "ar": "كانت عصر النهضة فترة من الإحياء الثقافي في أوروبا، بدأت في القرن الرابع عشر، وتميزت بالتقدم في الفن والعلم."
+    },
+    "question": {
+      "en": "What was the Renaissance?",
+      "ar": "ما هي عصر النهضة؟"
+    },
+    "answer": {
+      "en": "A period of cultural rebirth in Europe.",
+      "ar": "فترة من الإحياء الثقافي في أوروبا."
+    }
+  },
+  {
+    "context": {
+      "en": "The Industrial Revolution began in the late 18th century, transforming manufacturing with the introduction of machinery.",
+      "ar": "بدأت الثورة الصناعية في أواخر القرن الثامن عشر، وغيرت التصنيع بإدخال الآلات."
+    },
+    "question": {
+      "en": "When did the Industrial Revolution begin?",
+      "ar": "متى بدأت الثورة الصناعية؟"
+    },
+    "answer": {
+      "en": "Late 18th century.",
+      "ar": "أواخر القرن الثامن عشر."
+    }
+  },
+  {
+    "context": {
+      "en": "The Amazon Rainforest is the largest tropical rainforest in the world, located in South America.",
+      "ar": "غابة الأمازون هي أكبر غابة استوائية في العالم، وتقع في أمريكا الجنوبية."
+    },
+    "question": {
+      "en": "Where is the Amazon Rainforest located?",
+      "ar": "أين تقع غابة الأمازون؟"
+    },
+    "answer": {
+      "en": "South America.",
+      "ar": "أمريكا الجنوبية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Sahara Desert is the largest hot desert in the world, covering much of North Africa.",
+      "ar": "الصحراء الكبرى هي أكبر صحراء حارة في العالم، وتغطي جزءًا كبيرًا من شمال أفريقيا."
+    },
+    "question": {
+      "en": "What is the largest hot desert in the world?",
+      "ar": "ما هي أكبر صحراء حارة في العالم؟"
+    },
+    "answer": {
+      "en": "The Sahara Desert.",
+      "ar": "الصحراء الكبرى."
+    }
+  },
+  {
+    "context": {
+      "en": "The theory of relativity, developed by Albert Einstein, revolutionized our understanding of space, time, and gravity.",
+      "ar": "نظرية النسبية، التي طورها ألبرت أينشتاين، أحدثت ثورة في فهمنا للفضاء والزمن والجاذبية."
+    },
+    "question": {
+      "en": "Who developed the theory of relativity?",
+      "ar": "من طور نظرية النسبية؟"
+    },
+    "answer": {
+      "en": "Albert Einstein.",
+      "ar": "ألبرت أينشتاين."
+    }
+  },
+  {
+    "context": {
+      "en": "Quantum mechanics is the branch of physics that deals with the behavior of particles at the atomic and subatomic levels.",
+      "ar": "ميكانيكا الكم هي فرع من الفيزياء يتعامل مع سلوك الجسيمات على المستويات الذرية ودون الذرية."
+    },
+    "question": {
+      "en": "What does quantum mechanics study?",
+      "ar": "ما الذي تدرس ميكانيكا الكم؟"
+    },
+    "answer": {
+      "en": "Behavior of particles at atomic and subatomic levels.",
+      "ar": "سلوك الجسيمات على المستويات الذرية ودون الذرية."
+    }
+  },
+  {
+    "context": {
+      "en": "The planet Jupiter is the largest in our solar system, with a diameter of about 142,984 kilometers.",
+      "ar": "كوكب المشتري هو أكبر كوكب في نظامنا الشمسي، بقطر يبلغ حوالي 142,984 كيلومتر."
+    },
+    "question": {
+      "en": "What is the largest planet in our solar system?",
+      "ar": "ما هو أكبر كوكب في نظامنا الشمسي؟"
+    },
+    "answer": {
+      "en": "Jupiter.",
+      "ar": "المشتري."
+    }
+  },
+  {
+    "context": {
+      "en": "A supernova is a stellar explosion that occurs when a massive star collapses, releasing an enormous amount of energy.",
+      "ar": "المستعر الأعظم هو انفجار نجمي يحدث عندما ينهار نجم ضخم، مما يطلق كمية هائلة من الطاقة."
+    },
+    "question": {
+      "en": "What is a supernova?",
+      "ar": "ما هو المستعر الأعظم؟"
+    },
+    "answer": {
+      "en": "A stellar explosion from a collapsing massive star.",
+      "ar": "انفجار نجمي من نجم ضخم ينهار."
+    }
+  },
+  {
+    "context": {
+      "en": "Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels, often requiring insulin therapy.",
+      "ar": "مرض السكري هو حالة مزمنة حيث لا يستطيع الجسم تنظيم مستويات السكر في الدم بشكل صحيح، وغالبًا ما يتطلب العلاج بالأنسولين."
+    },
+    "question": {
+      "en": "What is diabetes?",
+      "ar": "ما هو مرض السكري؟"
+    },
+    "answer": {
+      "en": "A condition where the body cannot regulate blood sugar properly.",
+      "ar": "حالة لا يستطيع الجسم فيها تنظيم سكر الدم بشكل صحيح."
+    }
+  },
+  {
+    "context": {
+      "en": "Hypertension, or high blood pressure, is a common condition that can lead to serious health issues like heart disease and stroke.",
+      "ar": "ارتفاع ضغط الدم، أو فرط ضغط الدم، هو حالة شائعة يمكن أن تؤدي إلى مشاكل صحية خطيرة مثل أمراض القلب والسكتة الدماغية."
+    },
+    "question": {
+      "en": "What is hypertension?",
+      "ar": "ما هو ارتفاع ضغط الدم؟"
+    },
+    "answer": {
+      "en": "High blood pressure.",
+      "ar": "ضغط الدم المرتفع."
+    }
+  },
+  {
+    "context": {
+      "en": "Sonnet is a poetic form consisting of 14 lines, typically with a specific rhyme scheme, often used to express love or philosophical ideas.",
+      "ar": "السونيت هو شكل شعري يتكون من 14 سطرًا، عادةً مع نمط قافية محدد، وغالبًا ما يستخدم للتعبير عن الحب أو الأفكار الفلسفية."
+    },
+    "question": {
+      "en": "What is a sonnet?",
+      "ar": "ما هو السونيت؟"
+    },
+    "answer": {
+      "en": "A 14-line poem with a specific rhyme scheme.",
+      "ar": "قصيدة من 14 سطرًا بنمط قافية محدد."
+    }
+  },
+  {
+    "context": {
+      "en": "Alliteration is the repetition of initial consonant sounds in neighboring words, often used for emphasis or to create rhythm.",
+      "ar": "الجناس هو تكرار الأصوات الساكنة الأولية في الكلمات المجاورة، وغالبًا ما يستخدم للتأكيد أو لخلق إيقاع."
+    },
+    "question": {
+      "en": "What is alliteration?",
+      "ar": "ما هو الجناس؟"
+    },
+    "answer": {
+      "en": "Repetition of initial consonant sounds in words.",
+      "ar": "تكرار الأصوات الساكنة الأولية في الكلمات."
+    }
+  },
+  {
+    "context": {
+      "en": "Antihistamines are medications that block histamine receptors, used to treat allergies and cold symptoms.",
+      "ar": "مضادات الهيستامين هي أدوية تمنع مستقبلات الهيستامين، وتستخدم لعلاج الحساسية وأعراض البرد."
+    },
+    "question": {
+      "en": "What are antihistamines used for?",
+      "ar": "ما هو استخدام مضادات الهيستامين؟"
+    },
+    "answer": {
+      "en": "To treat allergies and cold symptoms.",
+      "ar": "لعلاج الحساسية وأعراض البرد."
+    }
+  },
+  {
+    "context": {
+      "en": "Statins are a class of drugs that lower cholesterol levels in the blood, reducing the risk of heart disease.",
+      "ar": "الستاتينات هي فئة من الأدوية التي تخفض مستويات الكوليسترول في الدم، مما يقلل من خطر الإصابة بأمراض القلب."
+    },
+    "question": {
+      "en": "What are statins used for?",
+      "ar": "ما هو استخدام الستاتينات؟"
+    },
+    "answer": {
+      "en": "To lower cholesterol and reduce heart disease risk.",
+      "ar": "لتخفيض الكوليسترول وتقليل خطر أمراض القلب."
+    }
+  },
+  {
+    "context": {
+      "en": "The Great Wall of China was built over centuries to protect against invasions, stretching over 13,000 miles.",
+      "ar": "بُني سور الصين العظيم على مدى قرون للحماية من الغزوات، ويمتد لأكثر من 13,000 ميل."
+    },
+    "question": {
+      "en": "Why was the Great Wall of China built?",
+      "ar": "لماذا بُني سور الصين العظيم؟"
+    },
+    "answer": {
+      "en": "To protect against invasions.",
+      "ar": "للحماية من الغزوات."
+    }
+  },
+  {
+    "context": {
+      "en": "The French Revolution, which began in 1789, led to the rise of Napoleon Bonaparte and the spread of revolutionary ideals across Europe.",
+      "ar": "أدت الثورة الفرنسية، التي بدأت في عام 1789، إلى صعود نابليون بونابرت وانتشار المثل الثورية في جميع أنحاء أوروبا."
+    },
+    "question": {
+      "en": "What year did the French Revolution begin?",
+      "ar": "في أي عام بدأت الثورة الفرنسية؟"
+    },
+    "answer": {
+      "en": "1789.",
+      "ar": "1789."
+    }
+  },
+  {
+    "context": {
+      "en": "Mount Everest is the highest mountain on Earth, with its peak reaching 8,848 meters above sea level.",
+      "ar": "جبل إيفرست هو أعلى جبل على الأرض، حيث يصل ارتفاع قمته إلى 8,848 مترًا فوق مستوى سطح البحر."
+    },
+    "question": {
+      "en": "What is the highest mountain on Earth?",
+      "ar": "ما هو أعلى جبل على الأرض؟"
+    },
+    "answer": {
+      "en": "Mount Everest.",
+      "ar": "جبل إيفرست."
+    }
+  },
+  {
+    "context": {
+      "en": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 60 million square miles.",
+      "ar": "المحيط الهادئ هو أكبر وأعمق محيط على الأرض، ويغطي أكثر من 60 مليون ميل مربع."
+    },
+    "question": {
+      "en": "What is the largest ocean on Earth?",
+      "ar": "ما هو أكبر محيط على الأرض؟"
+    },
+    "answer": {
+      "en": "The Pacific Ocean.",
+      "ar": "المحيط الهادئ."
+    }
+  },
+  {
+    "context": {
+      "en": "The Big Bang theory suggests that the universe began as a singularity and has been expanding ever since.",
+      "ar": "تنص نظرية الانفجار العظيم على أن الكون بدأ كنقطة مفردة واستمر في التوسع منذ ذلك الحين."
+    },
+    "question": {
+      "en": "What does the Big Bang theory propose?",
+      "ar": "ماذا تقترح نظرية الانفجار العظيم؟"
+    },
+    "answer": {
+      "en": "The universe began as a singularity and has been expanding.",
+      "ar": "الكون بدأ كنقطة مفردة واستمر في التوسع."
+    }
+  },
+  {
+    "context": {
+      "en": "Photosynthesis is the process by which green plants convert sunlight into chemical energy, producing oxygen as a byproduct.",
+      "ar": "التمثيل الضوئي هي العملية التي تقوم بها النباتات الخضراء بتحويل ضوء الشمس إلى طاقة كيميائية، مع إنتاج الأكسجين كناتج ثانوي."
+    },
+    "question": {
+      "en": "What is photosynthesis?",
+      "ar": "ما هو التمثيل الضوئي؟"
+    },
+    "answer": {
+      "en": "Process of converting sunlight into chemical energy in plants.",
+      "ar": "عملية تحويل ضوء الشمس إلى طاقة كيميائية في النباتات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Hubble Space Telescope has provided some of the most detailed images of distant galaxies, helping astronomers understand the universe's structure.",
+      "ar": "قدم تلسكوب هابل الفضائي بعضًا من أكثر الصور تفصيلاً للمجرات البعيدة، مما ساعد علماء الفلك على فهم بنية الكون."
+    },
+    "question": {
+      "en": "What is the Hubble Space Telescope known for?",
+      "ar": "بماذا يُعرف تلسكوب هابل الفضائي؟"
+    },
+    "answer": {
+      "en": "Providing detailed images of distant galaxies.",
+      "ar": "تقديم صور مفصلة للمجرات البعيدة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Andromeda Galaxy is the closest spiral galaxy to the Milky Way and is on a collision course with it, expected in about 4 billion years.",
+      "ar": "مجرة أندروميدا هي أقرب مجرة حلزونية إلى درب التبانة وهي على مسار تصادم معها، ومن المتوقع أن يحدث ذلك في حوالي 4 مليارات سنة."
+    },
+    "question": {
+      "en": "What is the Andromeda Galaxy?",
+      "ar": "ما هي مجرة أندروميدا؟"
+    },
+    "answer": {
+      "en": "The closest spiral galaxy to the Milky Way.",
+      "ar": "أقرب مجرة حلزونية إلى درب التبانة."
+    }
+  },
+  {
+    "context": {
+      "en": "The placebo effect occurs when a patient experiences benefits from a treatment that has no therapeutic value, often due to belief in its efficacy.",
+      "ar": "يحدث تأثير الدواء الوهمي عندما يشعر المريض بفوائد من علاج ليس له قيمة علاجية، غالبًا بسبب الاعتقاد بفعاليته."
+    },
+    "question": {
+      "en": "What is the placebo effect?",
+      "ar": "ما هو تأثير الدواء الوهمي؟"
+    },
+    "answer": {
+      "en": "Benefits from a treatment with no therapeutic value due to belief.",
+      "ar": "فوائد من علاج ليس له قيمة علاجية بسبب الاعتقاد."
+    }
+  },
+  {
+    "context": {
+      "en": "Stem cells are undifferentiated cells that can develop into various types of specialized cells, offering potential for regenerative medicine.",
+      "ar": "الخلايا الجذعية هي خلايا غير متمايزة يمكن أن تتطور إلى أنواع مختلفة من الخلايا المتخصصة، مما يوفر إمكانيات للطب التجديدي."
+    },
+    "question": {
+      "en": "What are stem cells?",
+      "ar": "ما هي الخلايا الجذعية؟"
+    },
+    "answer": {
+      "en": "Undifferentiated cells that can develop into specialized cells.",
+      "ar": "خلايا غير متمايزة يمكن أن تتطور إلى خلايا متخصصة."
+    }
+  },
+  {
+    "context": {
+      "en": "William Shakespeare is often regarded as the greatest playwright in the English language, known for works like 'Hamlet' and 'Romeo and Juliet.'",
+      "ar": "يُعتبر وليام شكسبير غالبًا أعظم كاتب مسرحي في اللغة الإنجليزية، ومعروف بأعمال مثل 'هاملت' و'روميو وجولييت.'"
+    },
+    "question": {
+      "en": "Who is William Shakespeare?",
+      "ar": "من هو وليام شكسبير؟"
+    },
+    "answer": {
+      "en": "A renowned English playwright.",
+      "ar": "كاتب مسرحي إنجليزي شهير."
+    }
+  },
+  {
+    "context": {
+      "en": "Free verse is a form of poetry that does not follow a specific meter or rhyme scheme, allowing for greater flexibility in expression.",
+      "ar": "الشعر الحر هو شكل من الشعر لا يتبع نمطًا محددًا للوزن أو القافية، مما يسمح بمرونة أكبر في التعبير."
+    },
+    "question": {
+      "en": "What is free verse?",
+      "ar": "ما هو الشعر الحر؟"
+    },
+    "answer": {
+      "en": "Poetry without a specific meter or rhyme scheme.",
+      "ar": "شعر دون نمط محدد للوزن أو القافية."
+    }
+  },
+  {
+    "context": {
+      "en": "Antidepressants are medications used to treat depression and other mental health conditions by balancing chemicals in the brain.",
+      "ar": "مضادات الاكتئاب هي أدوية تستخدم لعلاج الاكتئاب وغيرها من الحالات الصحية العقلية عن طريق موازنة المواد الكيميائية في الدماغ."
+    },
+    "question": {
+      "en": "What are antidepressants used for?",
+      "ar": "ما هو استخدام مضادات الاكتئاب؟"
+    },
+    "answer": {
+      "en": "To treat depression and balance brain chemicals.",
+      "ar": "لعلاج الاكتئاب وموازنة المواد الكيميائية في الدماغ."
+    }
+  },
+  {
+    "context": {
+      "en": "The Silk Road was an ancient network of trade routes connecting the East and West, facilitating cultural and economic exchange.",
+      "ar": "كان طريق الحرير شبكة قديمة من الطرق التجارية تربط الشرق بالغرب، وتسهل التبادل الثقافي والاقتصادي."
+    },
+    "question": {
+      "en": "What was the Silk Road?",
+      "ar": "ما هو طريق الحرير؟"
+    },
+    "answer": {
+      "en": "An ancient trade route network connecting East and West.",
+      "ar": "شبكة طرق تجارية قديمة تربط الشرق بالغرب."
+    }
+  },
+  {
+    "context": {
+      "en": "The Nile River is the longest river in the world, stretching over 6,650 kilometers through northeastern Africa.",
+      "ar": "نهر النيل هو أطول نهر في العالم، ويمتد لأكثر من 6,650 كيلومترًا عبر شمال شرق أفريقيا."
+    },
+    "question": {
+      "en": "What is the longest river in the world?",
+      "ar": "ما هو أطول نهر في العالم؟"
+    },
+    "answer": {
+      "en": "The Nile River.",
+      "ar": "نهر النيل."
+    }
+  },
+  {
+    "context": {
+      "en": "The human brain is composed of approximately 86 billion neurons, which are responsible for processing and transmitting information.",
+      "ar": "يتكون الدماغ البشري من حوالي 86 مليار خلية عصبية، وهي المسؤولة عن معالجة ونقل المعلومات."
+    },
+    "question": {
+      "en": "How many neurons are in the human brain?",
+      "ar": "كم عدد الخلايا العصبية في الدماغ البشري؟"
+    },
+    "answer": {
+      "en": "Approximately 86 billion.",
+      "ar": "حوالي 86 مليار."
+    }
+  },
+  {
+    "context": {
+      "en": "Exoplanets are planets that orbit stars outside our solar system, and thousands have been discovered in recent years.",
+      "ar": "الكواكب الخارجية هي كواكب تدور حول نجوم خارج نظامنا الشمسي، وقد تم اكتشاف الآلاف منها في السنوات الأخيرة."
+    },
+    "question": {
+      "en": "What are exoplanets?",
+      "ar": "ما هي الكواكب الخارجية؟"
+    },
+    "answer": {
+      "en": "Planets orbiting stars outside our solar system.",
+      "ar": "كواكب تدور حول نجوم خارج نظامنا الشمسي."
+    }
+  },
+  {
+    "context": {
+      "en": "The human heart has four chambers: two atria and two ventricles, which work together to pump blood throughout the body.",
+      "ar": "يحتوي القلب البشري على أربع حجرات: أذينين وبطينين، يعملان معًا لضخ الدم في جميع أنحاء الجسم."
+    },
+    "question": {
+      "en": "How many chambers does the human heart have?",
+      "ar": "كم عدد الحجرات في القلب البشري؟"
+    },
+    "answer": {
+      "en": "Four.",
+      "ar": "أربعة."
+    }
+  },
+  {
+    "context": {
+      "en": "The epic poem 'The Iliad,' attributed to Homer, tells the story of the Trojan War and is a foundational work of Western literature.",
+      "ar": "القصيدة الملحمية 'الإلياذة'، المنسوبة إلى هوميروس، تروي قصة حرب طروادة وهي عمل أساسي في الأدب الغربي."
+    },
+    "question": {
+      "en": "What is 'The Iliad'?",
+      "ar": "ما هي 'الإلياذة'؟"
+    },
+    "answer": {
+      "en": "An epic poem about the Trojan War.",
+      "ar": "قصيدة ملحمية عن حرب طروادة."
+    }
+  },
+  {
+    "context": {
+      "en": "Aspirin is a medication used to relieve pain, reduce inflammation, and lower fever, and it also has blood-thinning properties.",
+      "ar": "الأسبرين هو دواء يستخدم لتسكين الألم، تقليل الالتهاب، وخفض الحمى، وله أيضًا خصائص ترقيق الدم."
+    },
+    "question": {
+      "en": "What is aspirin used for?",
+      "ar": "ما هو استخدام الأسبرين؟"
+    },
+    "answer": {
+      "en": "To relieve pain, reduce inflammation, lower fever, and thin blood.",
+      "ar": "لتسكين الألم، تقليل الالتهاب، خفض الحمى، وترقيق الدم."
+    }
+  },
+  {
+    "context": {
+      "en": "The Roman Empire, at its height, controlled vast territories across Europe, North Africa, and the Middle East, lasting until 476 CE in the West.",
+      "ar": "الإمبراطورية الرومانية، في ذروتها، سيطرت على أراضٍ شاسعة عبر أوروبا وشمال أفريقيا والشرق الأوسط، واستمرت حتى عام 476 م في الغرب."
+    },
+    "question": {
+      "en": "What regions did the Roman Empire control?",
+      "ar": "ما هي المناطق التي سيطرت عليها الإمبراطورية الرومانية؟"
+    },
+    "answer": {
+      "en": "Europe, North Africa, and the Middle East.",
+      "ar": "أوروبا، شمال أفريقيا، والشرق الأوسط."
+    }
+  },
+  {
+    "context": {
+      "en": "The Arctic Circle is a region around the North Pole where the sun doesn’t rise on the winter solstice or set on the summer solstice.",
+      "ar": "الدائرة القطبية الشمالية هي منطقة حول القطب الشمالي حيث لا تشرق الشمس في الانقلاب الشتوي ولا تغرب في الانقلاب الصيفي."
+    },
+    "question": {
+      "en": "What is the Arctic Circle?",
+      "ar": "ما هي الدائرة القطبية الشمالية؟"
+    },
+    "answer": {
+      "en": "A region around the North Pole with unique sunlight patterns.",
+      "ar": "منطقة حول القطب الشمالي بأنماط ضوء شمسي فريدة."
+    }
+  },
+  {
+    "context": {
+      "en": "The periodic table organizes elements based on their atomic number, electron configuration, and recurring chemical properties.",
+      "ar": "ينظم الجدول الدوري العناصر بناءً على عددها الذري، وتكوينها الإلكتروني، وخصائصها الكيميائية المتكررة."
+    },
+    "question": {
+      "en": "What does the periodic table organize?",
+      "ar": "ماذا ينظم الجدول الدوري؟"
+    },
+    "answer": {
+      "en": "Elements based on atomic number and properties.",
+      "ar": "العناصر بناءً على العدد الذري والخصائص."
+    }
+  },
+  {
+    "context": {
+      "en": "The Kuiper Belt is a region of the solar system beyond Neptune, populated with small icy bodies and dwarf planets like Pluto.",
+      "ar": "حزام كايبر هو منطقة في النظام الشمسي وراء نبتون، وتزدحم بأجسام جليدية صغيرة وكواكب قزمة مثل بلوتو."
+    },
+    "question": {
+      "en": "What is the Kuiper Belt?",
+      "ar": "ما هو حزام كايبر؟"
+    },
+    "answer": {
+      "en": "A region beyond Neptune with small icy bodies.",
+      "ar": "منطقة وراء نبتون تحتوي على أجسام جليدية صغيرة."
+    }
+  },
+  {
+    "context": {
+      "en": "Anemia is a condition characterized by a deficiency of red blood cells or hemoglobin, leading to fatigue and weakness.",
+      "ar": "فقر الدم هو حالة تتميز بنقص في خلايا الدم الحمراء أو الهيموجلوبين، مما يؤدي إلى التعب والضعف."
+    },
+    "question": {
+      "en": "What is anemia?",
+      "ar": "ما هو فقر الدم؟"
+    },
+    "answer": {
+      "en": "Deficiency of red blood cells or hemoglobin.",
+      "ar": "نقص في خلايا الدم الحمراء أو الهيموجلوبين."
+    }
+  },
+  {
+    "context": {
+      "en": "Imagery in poetry involves using descriptive language to create vivid mental pictures, appealing to the senses.",
+      "ar": "التصوير في الشعر ينطوي على استخدام لغة وصفية لخلق صور ذهنية حية، تجذب الحواس."
+    },
+    "question": {
+      "en": "What is imagery in poetry?",
+      "ar": "ما هو التصوير في الشعر؟"
+    },
+    "answer": {
+      "en": "Descriptive language creating vivid mental pictures.",
+      "ar": "لغة وصفية تخلق صورًا ذهنية حية."
+    }
+  },
+  {
+    "context": {
+      "en": "Penicillin, discovered by Alexander Fleming, was the first widely used antibiotic, revolutionizing the treatment of bacterial infections.",
+      "ar": "البنسلين، الذي اكتشفه ألكسندر فليمنغ، كان أول مضاد حيوي يستخدم على نطاق واسع، مما أحدث ثورة في علاج الالتهابات البكتيرية."
+    },
+    "question": {
+      "en": "Who discovered penicillin?",
+      "ar": "من اكتشف البنسلين؟"
+    },
+    "answer": {
+      "en": "Alexander Fleming.",
+      "ar": "ألكسندر فليمنغ."
+    }
+  },
+  {
+    "context": {
+      "en": "World War II began in 1939 and ended in 1945, involving many countries and resulting in significant global changes.",
+      "ar": "بدأت الحرب العالمية الثانية في عام 1939 وانتهت في عام 1945، وشملت العديد من الدول وأدت إلى تغييرات عالمية كبيرة."
+    },
+    "question": {
+      "en": "When did World War II begin?",
+      "ar": "متى بدأت الحرب العالمية الثانية؟"
+    },
+    "answer": {
+      "en": "1939.",
+      "ar": "1939."
+    }
+  },
+  {
+    "context": {
+      "en": "The Himalayas are a mountain range in Asia, home to Mount Everest, and formed by the collision of tectonic plates.",
+      "ar": "جبال الهيمالايا هي سلسلة جبلية في آسيا، موطن جبل إيفرست، وتشكلت نتيجة تصادم الصفائح التكتونية."
+    },
+    "question": {
+      "en": "What are the Himalayas?",
+      "ar": "ما هي جبال الهيمالايا؟"
+    },
+    "answer": {
+      "en": "A mountain range in Asia with Mount Everest.",
+      "ar": "سلسلة جبلية في آسيا تضم جبل إيفرست."
+    }
+  },
+  {
+    "context": {
+      "en": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily due to human activities like burning fossil fuels.",
+      "ar": "يشير تغير المناخ إلى التحولات طويلة المدى في درجات الحرارة وأنماط الطقس، ويرجع ذلك بشكل أساسي إلى الأنشطة البشرية مثل حرق الوقود الأحفوري."
+    },
+    "question": {
+      "en": "What is climate change?",
+      "ar": "ما هو تغير المناخ؟"
+    },
+    "answer": {
+      "en": "Long-term shifts in temperatures and weather patterns.",
+      "ar": "تحولات طويلة المدى في درجات الحرارة وأنماط الطقس."
+    }
+  },
+  {
+    "context": {
+      "en": "Pulsars are rapidly rotating neutron stars that emit beams of electromagnetic radiation, often detected as periodic signals.",
+      "ar": "النجوم النابضة هي نجوم نيوترونية تدور بسرعة وتصدر أشعة من الإشعاع الكهرومغناطيسي، وغالبًا ما يتم اكتشافها كإشارات دورية."
+    },
+    "question": {
+      "en": "What are pulsars?",
+      "ar": "ما هي النجوم النابضة؟"
+    },
+    "answer": {
+      "en": "Rapidly rotating neutron stars emitting radiation beams.",
+      "ar": "نجوم نيوترونية تدور بسرعة وتصدر أشعة إشعاعية."
+    }
+  },
+  {
+    "context": {
+      "en": "The flu, or influenza, is a contagious respiratory illness caused by influenza viruses, often leading to fever, cough, and body aches.",
+      "ar": "الإنفلونزا هي مرض تنفسي معدي تسببه فيروسات الإنفلونزا، وغالبًا ما يؤدي إلى الحمى والسعال وآلام الجسم."
+    },
+    "question": {
+      "en": "What is the flu?",
+      "ar": "ما هي الإنفلونزا؟"
+    },
+    "answer": {
+      "en": "A contagious respiratory illness caused by influenza viruses.",
+      "ar": "مرض تنفسي معدي تسببه فيروسات الإنفلونزا."
+    }
+  },
+  {
+    "context": {
+      "en": "A stanza is a grouped set of lines within a poem, often sharing a common rhyme scheme or theme.",
+      "ar": "المقطع هو مجموعة من الأسطر ضمن قصيدة، غالبًا ما تشترك في نمط قافية أو موضوع مشترك."
+    },
+    "question": {
+      "en": "What is a stanza?",
+      "ar": "ما هو المقطع؟"
+    },
+    "answer": {
+      "en": "A grouped set of lines in a poem.",
+      "ar": "مجموعة من الأسطر في قصيدة."
+    }
+  },
+  {
+    "context": {
+      "en": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever.",
+      "ar": "الإيبوبروفين هو دواء مضاد للالتهاب غير ستيرويدي (NSAID) يستخدم لتسكين الألم، تقليل الالتهاب، وخفض الحمى."
+    },
+    "question": {
+      "en": "What is ibuprofen used for?",
+      "ar": "ما هو استخدام الإيبوبروفين؟"
+    },
+    "answer": {
+      "en": "To relieve pain, reduce inflammation, and lower fever.",
+      "ar": "لتسكين الألم، تقليل الالتهاب، وخفض الحمى."
+    }
+  },
+  {
+    "context": {
+      "en": "The American Civil War, fought from 1861 to 1865, was a conflict between the northern states and the southern states over issues including slavery.",
+      "ar": "الحرب الأهلية الأمريكية، التي دارت من 1861 إلى 1865، كانت صراعًا بين الولايات الشمالية والجنوبية حول قضايا منها العبودية."
+    },
+    "question": {
+      "en": "When was the American Civil War fought?",
+      "ar": "متى دارت الحرب الأهلية الأمريكية؟"
+    },
+    "answer": {
+      "en": "1861 to 1865.",
+      "ar": "من 1861 إلى 1865."
+    }
+  },
+  {
+    "context": {
+      "en": "Antarctica is the coldest continent on Earth, covered mostly by ice and home to the South Pole.",
+      "ar": "القارة القطبية الجنوبية هي أبرد قارة على الأرض، مغطاة بالجليد في معظمها وموطن القطب الجنوبي."
+    },
+    "question": {
+      "en": "What is the coldest continent on Earth?",
+      "ar": "ما هي أبرد قارة على الأرض؟"
+    },
+    "answer": {
+      "en": "Antarctica.",
+      "ar": "القارة القطبية الجنوبية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Higgs boson, often called the 'God particle,' is a fundamental particle associated with the Higgs field, which gives mass to other particles.",
+      "ar": "بوزون هيغز، الذي يُطلق عليه غالبًا 'الجسيم الإلهي'، هو جسيم أساسي مرتبط بمجال هيغز، الذي يعطي الكتلة للجسيمات الأخرى."
+    },
+    "question": {
+      "en": "What is the Higgs boson?",
+      "ar": "ما هو بوزون هيغز؟"
+    },
+    "answer": {
+      "en": "A particle associated with the Higgs field that gives mass to other particles.",
+      "ar": "جسيم مرتبط بمجال هيغز يعطي الكتلة للجسيمات الأخرى."
+    }
+  },
+  {
+    "context": {
+      "en": "The cosmic microwave background is the residual radiation from the Big Bang, providing evidence for the universe's early hot, dense state.",
+      "ar": "الخلفية الكونية الميكروية هي الإشعاع المتبقي من الانفجار العظيم، وتوفر دليلاً على الحالة الساخنة والكثيفة المبكرة للكون."
+    },
+    "question": {
+      "en": "What is the cosmic microwave background?",
+      "ar": "ما هي الخلفية الكونية الميكروية؟"
+    },
+    "answer": {
+      "en": "Residual radiation from the Big Bang.",
+      "ar": "الإشعاع المتبقي من الانفجار العظيم."
+    }
+  },
+  {
+    "context": {
+      "en": "CPR, or cardiopulmonary resuscitation, is an emergency procedure used to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest.",
+      "ar": "الإنعاش القلبي الرئوي، أو CPR، هو إجراء طارئ يستخدم لاستعادة الدورة الدموية التلقائية والتنفس لدى شخص يعاني من توقف القلب."
+    },
+    "question": {
+      "en": "What is CPR?",
+      "ar": "ما هو الإنعاش القلبي الرئوي؟"
+    },
+    "answer": {
+      "en": "Emergency procedure to restore circulation and breathing.",
+      "ar": "إجراء طارئ لاستعادة الدورة الدموية والتنفس."
+    }
+  },
+  {
+    "context": {
+      "en": "Rupi Kaur is a contemporary poet known for her short, impactful poems that often explore themes of love, loss, and identity.",
+      "ar": "روبي كاور هي شاعرة معاصرة معروفة بقصائدها القصيرة والمؤثرة التي غالبًا ما تستكشف موضوعات الحب والخسارة والهوية."
+    },
+    "question": {
+      "en": "Who is Rupi Kaur?",
+      "ar": "من هي روبي كاور؟"
+    },
+    "answer": {
+      "en": "A contemporary poet known for short, impactful poems.",
+      "ar": "شاعرة معاصرة معروفة بقصائدها القصيرة والمؤثرة."
+    }
+  },
+  {
+    "context": {
+      "en": "Morphine is a powerful opioid used to relieve severe pain, often in medical settings like surgery or cancer treatment.",
+      "ar": "المورفين هو أفيوني قوي يستخدم لتسكين الألم الشديد، غالبًا في الإعدادات الطبية مثل الجراحة أو علاج السرطان."
+    },
+    "question": {
+      "en": "What is morphine used for?",
+      "ar": "ما هو استخدام المورفين؟"
+    },
+    "answer": {
+      "en": "To relieve severe pain.",
+      "ar": "لتسكين الألم الشديد."
+    }
+  },
+  {
+    "context": {
+      "en": "The Cold War was a period of geopolitical tension between the United States and the Soviet Union, lasting from 1947 to 1991.",
+      "ar": "الحرب الباردة كانت فترة من التوتر الجيوسياسي بين الولايات المتحدة والاتحاد السوفيتي، استمرت من 1947 إلى 1991."
+    },
+    "question": {
+      "en": "What was the Cold War?",
+      "ar": "ما هي الحرب الباردة؟"
+    },
+    "answer": {
+      "en": "A period of tension between the US and the Soviet Union.",
+      "ar": "فترة من التوتر بين الولايات المتحدة والاتحاد السوفيتي."
+    }
+  },
+  {
+    "context": {
+      "en": "The Great Barrier Reef is the world’s largest coral reef system, located off the coast of Queensland, Australia.",
+      "ar": "الحاجز المرجاني العظيم هو أكبر نظام للشعاب المرجانية في العالم، ويقع قبالة ساحل كوينزلاند، أستراليا."
+    },
+    "question": {
+      "en": "Where is the Great Barrier Reef located?",
+      "ar": "أين يقع الحاجز المرجاني العظيم؟"
+    },
+    "answer": {
+      "en": "Off the coast of Queensland, Australia.",
+      "ar": "قبالة ساحل كوينزلاند، أستراليا."
+    }
+  },
+  {
+    "context": {
+      "en": "Gravity is the force that attracts objects toward each other, keeping planets in orbit and causing objects to fall to the ground.",
+      "ar": "الجاذبية هي القوة التي تجذب الأشياء نحو بعضها البعض، مما يبقي الكواكب في مداراتها ويسبب سقوط الأشياء على الأرض."
+    },
+    "question": {
+      "en": "What is gravity?",
+      "ar": "ما هي الجاذبية؟"
+    },
+    "answer": {
+      "en": "The force that attracts objects toward each other.",
+      "ar": "القوة التي تجذب الأشياء نحو بعضها البعض."
+    }
+  },
+  {
+    "context": {
+      "en": "Neptune is the eighth planet from the Sun and is known for its deep blue color caused by methane in its atmosphere.",
+      "ar": "نبتون هو الكوكب الثامن من الشمس ومعروف بلونه الأزرق العميق الناتج عن الميثان في غلافه الجوي."
+    },
+    "question": {
+      "en": "What color is Neptune?",
+      "ar": "ما هو لون نبتون؟"
+    },
+    "answer": {
+      "en": "Deep blue.",
+      "ar": "أزرق عميق."
+    }
+  },
+  {
+    "context": {
+      "en": "Cholesterol is a fatty substance in the blood, and high levels can increase the risk of heart disease.",
+      "ar": "الكوليسترول هو مادة دهنية في الدم، ومستوياته العالية يمكن أن تزيد من خطر الإصابة بأمراض القلب."
+    },
+    "question": {
+      "en": "What is cholesterol?",
+      "ar": "ما هو الكوليسترول؟"
+    },
+    "answer": {
+      "en": "A fatty substance in the blood.",
+      "ar": "مادة دهنية في الدم."
+    }
+  },
+  {
+    "context": {
+      "en": "An ode is a type of lyrical poem that expresses deep emotion, often addressed to a person or thing.",
+      "ar": "القصيدة الغنائية هي نوع من الشعر الغنائي يعبر عن عاطفة عميقة، غالبًا موجهة إلى شخص أو شيء."
+    },
+    "question": {
+      "en": "What is an ode?",
+      "ar": "ما هي القصيدة الغنائية؟"
+    },
+    "answer": {
+      "en": "A lyrical poem expressing deep emotion.",
+      "ar": "شعر غنائي يعبر عن عاطفة عميقة."
+    }
+  },
+  {
+    "context": {
+      "en": "Amoxicillin is an antibiotic used to treat a variety of bacterial infections, such as those affecting the ear, throat, and urinary tract.",
+      "ar": "الأموكسيسيلين هو مضاد حيوي يستخدم لعلاج مجموعة متنوعة من الالتهابات البكتيرية، مثل تلك التي تؤثر على الأذن والحلق والمسالك البولية."
+    },
+    "question": {
+      "en": "What is amoxicillin used for?",
+      "ar": "ما هو استخدام الأموكسيسيلين؟"
+    },
+    "answer": {
+      "en": "To treat bacterial infections.",
+      "ar": "لعلاج الالتهابات البكتيرية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Declaration of Independence was adopted by the United States on July 4, 1776, marking the beginning of its independence from Britain.",
+      "ar": "تم اعتماد إعلان الاستقلال من قبل الولايات المتحدة في 4 يوليو 1776، مما يمثل بداية استقلالها عن بريطانيا."
+    },
+    "question": {
+      "en": "When was the Declaration of Independence adopted?",
+      "ar": "متى تم اعتماد إعلان الاستقلال؟"
+    },
+    "answer": {
+      "en": "July 4, 1776.",
+      "ar": "4 يوليو 1776."
+    }
+  },
+  {
+    "context": {
+      "en": "The Dead Sea, located between Palestine and Jordan, is one of the saltiest bodies of water on Earth, allowing people to float easily.",
+      "ar": "البحر الميت، الواقع بين فلسطين والأردن، هو أحد أكثر المسطحات المائية ملوحة على الأرض، مما يسمح للناس بالطفو بسهولة."
+    },
+    "question": {
+      "en": "Why can people float easily in the Dead Sea?",
+      "ar": "لماذا يمكن للناس الطفو بسهولة في البحر الميت؟"
+    },
+    "answer": {
+      "en": "Because of its high salt content.",
+      "ar": "بسبب ارتفاع نسبة الملح فيه."
+    }
+  },
+  {
+    "context": {
+      "en": "Electrons are negatively charged particles that orbit the nucleus of an atom, determining its chemical properties.",
+      "ar": "الإلكترونات هي جسيمات مشحونة سلبًا تدور حول نواة الذرة، وتحدد خصائصها الكيميائية."
+    },
+    "question": {
+      "en": "What are electrons?",
+      "ar": "ما هي الإلكترونات؟"
+    },
+    "answer": {
+      "en": "Negatively charged particles orbiting an atom’s nucleus.",
+      "ar": "جسيمات مشحونة سلبًا تدور حول نواة الذرة."
+    }
+  },
+  {
+    "context": {
+      "en": "Saturn is known for its prominent ring system, made mostly of ice, dust, and rocky material.",
+      "ar": "زحل معروف بنظام حلقاته البارز، المكون بشكل رئيسي من الجليد والغبار والمواد الصخرية."
+    },
+    "question": {
+      "en": "What is Saturn known for?",
+      "ar": "بماذا يُعرف زحل؟"
+    },
+    "answer": {
+      "en": "Its prominent ring system.",
+      "ar": "نظام حلقاته البارز."
+    }
+  },
+  {
+    "context": {
+      "en": "Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, causing difficulty in breathing.",
+      "ar": "الربو هو حالة تنفسية مزمنة تتميز بالتهاب وتضييق المسالك الهوائية، مما يسبب صعوبة في التنفس."
+    },
+    "question": {
+      "en": "What is asthma?",
+      "ar": "ما هو الربو؟"
+    },
+    "answer": {
+      "en": "A condition causing inflammation and narrowing of the airways.",
+      "ar": "حالة تسبب التهاب وتضييق المسالك الهوائية."
+    }
+  },
+  {
+    "context": {
+      "en": "Simile is a figure of speech that compares two things using 'like' or 'as,' enhancing descriptive imagery.",
+      "ar": "التشبيه هو أسلوب بلاغي يقارن بين شيئين باستخدام 'مثل' أو 'كـ'، مما يعزز الصور الوصفية."
+    },
+    "question": {
+      "en": "What is a simile?",
+      "ar": "ما هو التشبيه؟"
+    },
+    "answer": {
+      "en": "A comparison using 'like' or 'as.'",
+      "ar": "مقارنة باستخدام 'مثل' أو 'كـ'."
+    }
+  },
+  {
+    "context": {
+      "en": "Metformin is a medication commonly used to manage type 2 diabetes by helping to control blood sugar levels.",
+      "ar": "الميتفورمين هو دواء يستخدم عادة لعلاج مرض السكري من النوع الثاني عن طريق المساعدة في التحكم بمستويات السكر في الدم."
+    },
+    "question": {
+      "en": "What is metformin used for?",
+      "ar": "ما هو استخدام الميتفورمين؟"
+    },
+    "answer": {
+      "en": "To manage type 2 diabetes by controlling blood sugar.",
+      "ar": "لعلاج مرض السكري من النوع الثاني عن طريق التحكم بسكر الدم."
+    }
+  },
+  {
+    "context": {
+      "en": "The Pyramids of Giza, built during Egypt’s Old Kingdom, are among the most iconic ancient structures in the world.",
+      "ar": "أهرامات الجيزة، التي بُنيت خلال المملكة القديمة في مصر، تُعد من أكثر الهياكل القديمة شهرة في العالم."
+    },
+    "question": {
+      "en": "When were the Pyramids of Giza built?",
+      "ar": "متى بُنيت أهرامات الجيزة؟"
+    },
+    "answer": {
+      "en": "During Egypt’s Old Kingdom.",
+      "ar": "خلال المملكة القديمة في مصر."
+    }
+  },
+  {
+    "context": {
+      "en": "The Mississippi River is the second-longest river in the United States, flowing from Minnesota to the Gulf of Mexico.",
+      "ar": "نهر المسيسيبي هو ثاني أطول نهر في الولايات المتحدة، يتدفق من مينيسوتا إلى خليج المكسيك."
+    },
+    "question": {
+      "en": "Where does the Mississippi River flow?",
+      "ar": "أين يتدفق نهر المسيسيبي؟"
+    },
+    "answer": {
+      "en": "From Minnesota to the Gulf of Mexico.",
+      "ar": "من مينيسوتا إلى خليج المكسيك."
+    }
+  },
+  {
+    "context": {
+      "en": "Neutrinos are nearly massless particles that interact very weakly with matter, making them difficult to detect.",
+      "ar": "النيوترينوات هي جسيمات شبه خالية من الكتلة تتفاعل بشكل ضعيف جدًا مع المادة، مما يجعلها صعبة الكشف."
+    },
+    "question": {
+      "en": "What are neutrinos?",
+      "ar": "ما هي النيوترينوات؟"
+    },
+    "answer": {
+      "en": "Nearly massless particles that interact weakly with matter.",
+      "ar": "جسيمات شبه خالية من الكتلة تتفاعل بشكل ضعيف مع المادة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Sun is a star at the center of our solar system, providing energy through nuclear fusion in its core.",
+      "ar": "الشمس هي نجم في مركز نظامنا الشمسي، توفر الطاقة من خلال الاندماج النووي في قلبها."
+    },
+    "question": {
+      "en": "What provides energy to the Sun?",
+      "ar": "ما الذي يوفر الطاقة للشمس؟"
+    },
+    "answer": {
+      "en": "Nuclear fusion in its core.",
+      "ar": "الاندماج النووي في قلبها."
+    }
+  },
+  {
+    "context": {
+      "en": "Malaria is a disease caused by parasites transmitted through the bites of infected mosquitoes, common in tropical regions.",
+      "ar": "الملاريا هي مرض تسببه طفيليات تنتقل عن طريق لدغات البعوض المصاب، وهي شائعة في المناطق الاستوائية."
+    },
+    "question": {
+      "en": "What causes malaria?",
+      "ar": "ما الذي يسبب الملاريا؟"
+    },
+    "answer": {
+      "en": "Parasites transmitted by mosquito bites.",
+      "ar": "طفيليات تنتقل عن طريق لدغات البعوض."
+    }
+  },
+  {
+    "context": {
+      "en": "Elegy is a poem of serious reflection, typically a lament for the dead.",
+      "ar": "الرثاء هو قصيدة تأمل جادة، عادةً ما تكون رثاءً للموتى."
+    },
+    "question": {
+      "en": "What is an elegy?",
+      "ar": "ما هو الرثاء؟"
+    },
+    "answer": {
+      "en": "A poem lamenting the dead.",
+      "ar": "قصيدة ترثي الموتى."
+    }
+  },
+  {
+    "context": {
+      "en": "Antacids are medications that neutralize stomach acid to relieve heartburn and indigestion.",
+      "ar": "مضادات الحموضة هي أدوية تعادل حمض المعدة لتخفيف الحرقة والتلبك المعوي."
+    },
+    "question": {
+      "en": "What are antacids used for?",
+      "ar": "ما هو استخدام مضادات الحموضة؟"
+    },
+    "answer": {
+      "en": "To neutralize stomach acid and relieve heartburn.",
+      "ar": "لتعادل حمض المعدة وتخفيف الحرقة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Magna Carta, signed in 1215, was a landmark document that limited the power of the English king and influenced modern democracy.",
+      "ar": "الماجنا كارتا، التي وقّعت في عام 1215، كانت وثيقة بارزة حدت من سلطة الملك الإنجليزي وأثرت في الديمقراطية الحديثة."
+    },
+    "question": {
+      "en": "What was the Magna Carta?",
+      "ar": "ما هي الماجنا كارتا؟"
+    },
+    "answer": {
+      "en": "A document limiting the king’s power.",
+      "ar": "وثيقة تحد من سلطة الملك."
+    }
+  },
+  {
+    "context": {
+      "en": "The Andes Mountains are the longest continental mountain range in the world, stretching along the western coast of South America.",
+      "ar": "جبال الأنديز هي أطول سلسلة جبلية قارية في العالم، تمتد على طول الساحل الغربي لأمريكا الجنوبية."
+    },
+    "question": {
+      "en": "Where are the Andes Mountains located?",
+      "ar": "أين تقع جبال الأنديز؟"
+    },
+    "answer": {
+      "en": "Along the western coast of South America.",
+      "ar": "على طول الساحل الغربي لأمريكا الجنوبية."
+    }
+  },
+  {
+    "context": {
+      "en": "Protons are positively charged particles found in the nucleus of an atom, determining its atomic number.",
+      "ar": "البروتونات هي جسيمات مشحونة إيجابيًا توجد في نواة الذرة، وتحدد عددها الذري."
+    },
+    "question": {
+      "en": "What are protons?",
+      "ar": "ما هي البروتونات؟"
+    },
+    "answer": {
+      "en": "Positively charged particles in an atom’s nucleus.",
+      "ar": "جسيمات مشحونة إيجابيًا في نواة الذرة."
+    }
+  },
+  {
+    "context": {
+      "en": "Mars, known as the Red Planet, has a reddish hue due to iron oxide (rust) on its surface.",
+      "ar": "المريخ، المعروف بالكوكب الأحمر، له لون محمر بسبب أكسيد الحديد (الصدأ) على سطحه."
+    },
+    "question": {
+      "en": "Why is Mars called the Red Planet?",
+      "ar": "لماذا يُسمى المريخ بالكوكب الأحمر؟"
+    },
+    "answer": {
+      "en": "Due to iron oxide (rust) on its surface.",
+      "ar": "بسبب أكسيد الحديد (الصدأ) على سطحه."
+    }
+  },
+  {
+    "context": {
+      "en": "Tuberculosis is an infectious disease caused by the bacterium Mycobacterium tuberculosis, primarily affecting the lungs.",
+      "ar": "السل هو مرض معدٍ تسببه بكتيريا المتفطرة السلية، ويؤثر بشكل رئيسي على الرئتين."
+    },
+    "question": {
+      "en": "What causes tuberculosis?",
+      "ar": "ما الذي يسبب السل؟"
+    },
+    "answer": {
+      "en": "The bacterium Mycobacterium tuberculosis.",
+      "ar": "بكتيريا المتفطرة السلية."
+    }
+  },
+  {
+    "context": {
+      "en": "Rhyme is the repetition of similar sounds at the end of words, a common feature in poetry.",
+      "ar": "القافية هي تكرار الأصوات المتشابهة في نهاية الكلمات، وهي سمة شائعة في الشعر."
+    },
+    "question": {
+      "en": "What is rhyme?",
+      "ar": "ما هي القافية؟"
+    },
+    "answer": {
+      "en": "Repetition of similar sounds at the end of words.",
+      "ar": "تكرار الأصوات المتشابهة في نهاية الكلمات."
+    }
+  },
+  {
+    "context": {
+      "en": "Codeine is an opioid used to treat mild to moderate pain and to suppress coughing.",
+      "ar": "الكودايين هو أفيوني يستخدم لعلاج الألم الخفيف إلى المتوسط ولقمع السعال."
+    },
+    "question": {
+      "en": "What is codeine used for?",
+      "ar": "ما هو استخدام الكودايين؟"
+    },
+    "answer": {
+      "en": "To treat pain and suppress coughing.",
+      "ar": "لعلاج الألم وقمع السعال."
+    }
+  },
+  {
+    "context": {
+      "en": "The Battle of Waterloo in 1815 marked the final defeat of Napoleon Bonaparte and the end of the Napoleonic Wars.",
+      "ar": "معركة واترلو في عام 1815 مثلت الهزيمة النهائية لنابليون بونابرت ونهاية الحروب النابليونية."
+    },
+    "question": {
+      "en": "What happened at the Battle of Waterloo?",
+      "ar": "ماذا حدث في معركة واترلو؟"
+    },
+    "answer": {
+      "en": "The final defeat of Napoleon Bonaparte.",
+      "ar": "الهزيمة النهائية لنابليون بونابرت."
+    }
+  },
+  {
+    "context": {
+      "en": "The Gobi Desert spans parts of northern China and southern Mongolia and is known for its extreme temperatures.",
+      "ar": "صحراء جوبي تمتد عبر أجزاء من شمال الصين وجنوب منغوليا ومعروفة بدرجات حرارتها المتطرفة."
+    },
+    "question": {
+      "en": "Where is the Gobi Desert located?",
+      "ar": "أين تقع صحراء جوبي؟"
+    },
+    "answer": {
+      "en": "Northern China and southern Mongolia.",
+      "ar": "شمال الصين وجنوب منغوليا."
+    }
+  },
+  {
+    "context": {
+      "en": "The greenhouse effect is the trapping of heat in Earth’s atmosphere by gases like carbon dioxide, warming the planet.",
+      "ar": "تأثير الاحتباس الحراري هو احتجاز الحرارة في الغلاف الجوي للأرض بواسطة غازات مثل ثاني أكسيد الكربون، مما يؤدي إلى تدفئة الكوكب."
+    },
+    "question": {
+      "en": "What is the greenhouse effect?",
+      "ar": "ما هو تأثير الاحتباس الحراري؟"
+    },
+    "answer": {
+      "en": "Trapping of heat in Earth’s atmosphere by gases.",
+      "ar": "احتجاز الحرارة في الغلاف الجوي للأرض بواسطة الغازات."
+    }
+  },
+  {
+    "context": {
+      "en": "Venus is the hottest planet in our solar system due to its thick atmosphere trapping heat.",
+      "ar": "الزهرة هي أكثر الكواكب حرارة في نظامنا الشمسي بسبب غلافها الجوي الكثيف الذي يحبس الحرارة."
+    },
+    "question": {
+      "en": "Why is Venus the hottest planet?",
+      "ar": "لماذا الزهرة أكثر الكواكب حرارة؟"
+    },
+    "answer": {
+      "en": "Due to its thick atmosphere trapping heat.",
+      "ar": "بسبب غلافها الجوي الكثيف الذي يحبس الحرارة."
+    }
+  },
+  {
+    "context": {
+      "en": "Hepatitis is an inflammation of the liver, often caused by viral infections or excessive alcohol consumption.",
+      "ar": "التهاب الكبد هو التهاب في الكبد، غالبًا ما يسببه عدوى فيروسية أو الإفراط في استهلاك الكحول."
+    },
+    "question": {
+      "en": "What is hepatitis?",
+      "ar": "ما هو التهاب الكبد؟"
+    },
+    "answer": {
+      "en": "Inflammation of the liver.",
+      "ar": "التهاب في الكبد."
+    }
+  },
+  {
+    "context": {
+      "en": "Personification is a poetic device where human characteristics are attributed to non-human entities.",
+      "ar": "التشخيص هو أسلوب شعري يُنسب فيه الخصائص البشرية إلى كيانات غير بشرية."
+    },
+    "question": {
+      "en": "What is personification?",
+      "ar": "ما هو التشخيص؟"
+    },
+    "answer": {
+      "en": "Attributing human characteristics to non-human entities.",
+      "ar": "نسب الخصائص البشرية إلى كيانات غير بشرية."
+    }
+  },
+  {
+    "context": {
+      "en": "Lisinopril is a medication used to treat high blood pressure and heart failure by relaxing blood vessels.",
+      "ar": "الليسينوبريل هو دواء يستخدم لعلاج ارتفاع ضغط الدم وفشل القلب عن طريق إرخاء الأوعية الدموية."
+    },
+    "question": {
+      "en": "What is lisinopril used for?",
+      "ar": "ما هو استخدام الليسينوبريل؟"
+    },
+    "answer": {
+      "en": "To treat high blood pressure and heart failure.",
+      "ar": "لعلاج ارتفاع ضغط الدم وفشل القلب."
+    }
+  },
+  {
+    "context": {
+      "en": "The Crusades were a series of religious wars between Christians and Muslims in the Middle Ages, starting in 1095.",
+      "ar": "الحروب الصليبية كانت سلسلة من الحروب الدينية بين المسيحيين والمسلمين في العصور الوسطى، بدأت في عام 1095."
+    },
+    "question": {
+      "en": "What were the Crusades?",
+      "ar": "ما هي الحروب الصليبية؟"
+    },
+    "answer": {
+      "en": "Religious wars between Christians and Muslims.",
+      "ar": "حروب دينية بين المسيحيين والمسلمين."
+    }
+  },
+  {
+    "context": {
+      "en": "The Mediterranean Sea is bordered by Europe, Africa, and Asia, and is known for its historical and cultural significance.",
+      "ar": "البحر الأبيض المتوسط محاط بأوروبا وأفريقيا وآسيا، ومعروف بأهميته التاريخية والثقافية."
+    },
+    "question": {
+      "en": "What continents border the Mediterranean Sea?",
+      "ar": "ما هي القارات التي تحد البحر الأبيض المتوسط؟"
+    },
+    "answer": {
+      "en": "Europe, Africa, and Asia.",
+      "ar": "أوروبا، أفريقيا، وآسيا."
+    }
+  },
+  {
+    "context": {
+      "en": "Atoms are the basic building blocks of matter, consisting of protons, neutrons, and electrons.",
+      "ar": "الذرات هي اللبنات الأساسية للمادة، وتتكون من بروتونات ونيوترونات وإلكترونات."
+    },
+    "question": {
+      "en": "What are atoms made of?",
+      "ar": "مما تتكون الذرات؟"
+    },
+    "answer": {
+      "en": "Protons, neutrons, and electrons.",
+      "ar": "بروتونات، نيوترونات، وإلكترونات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Moon is Earth’s only natural satellite, influencing tides and stabilizing the planet’s tilt.",
+      "ar": "القمر هو القمر الصناعي الطبيعي الوحيد للأرض، يؤثر على المد والجزر ويثبت ميلان الكوكب."
+    },
+    "question": {
+      "en": "What is the Moon?",
+      "ar": "ما هو القمر؟"
+    },
+    "answer": {
+      "en": "Earth’s only natural satellite.",
+      "ar": "القمر الصناعي الطبيعي الوحيد للأرض."
+    }
+  },
+  {
+    "context": {
+      "en": "Pneumonia is an infection that inflames the air sacs in one or both lungs, often caused by bacteria or viruses.",
+      "ar": "الالتهاب الرئوي هو عدوى تُسبب التهاب الأكياس الهوائية في إحدى الرئتين أو كلتيهما، غالبًا بسبب البكتيريا أو الفيروسات."
+    },
+    "question": {
+      "en": "What is pneumonia?",
+      "ar": "ما هو الالتهاب الرئوي؟"
+    },
+    "answer": {
+      "en": "An infection inflaming the lungs’ air sacs.",
+      "ar": "عدوى تُسبب التهاب الأكياس الهوائية في الرئتين."
+    }
+  },
+  {
+    "context": {
+      "en": "Enjambment in poetry occurs when a sentence or phrase runs over from one line to the next without a pause.",
+      "ar": "التجاوز في الشعر يحدث عندما تمتد جملة أو عبارة من سطر إلى الآخر دون توقف."
+    },
+    "question": {
+      "en": "What is enjambment?",
+      "ar": "ما هو التجاوز؟"
+    },
+    "answer": {
+      "en": "A sentence running over from one line to the next.",
+      "ar": "جملة تمتد من سطر إلى الآخر."
+    }
+  },
+  {
+    "context": {
+      "en": "Omeprazole is a proton pump inhibitor used to reduce stomach acid and treat conditions like acid reflux and ulcers.",
+      "ar": "أوميبرازول هو مثبط مضخة البروتون يستخدم لتقليل حمض المعدة وعلاج حالات مثل الارتجاع الحمضي والقرح."
+    },
+    "question": {
+      "en": "What is omeprazole used for?",
+      "ar": "ما هو استخدام أوميبرازول؟"
+    },
+    "answer": {
+      "en": "To reduce stomach acid and treat acid reflux.",
+      "ar": "لتقليل حمض المعدة وعلاج الارتجاع الحمضي."
+    }
+  },
+  {
+    "context": {
+      "en": "The fall of the Berlin Wall in 1989 symbolized the end of the Cold War and the reunification of Germany.",
+      "ar": "سقوط جدار برلين في عام 1989 رمز لنهاية الحرب الباردة وإعادة توحيد ألمانيا."
+    },
+    "question": {
+      "en": "What did the fall of the Berlin Wall symbolize?",
+      "ar": "ماذا رمز سقوط جدار برلين؟"
+    },
+    "answer": {
+      "en": "The end of the Cold War and Germany’s reunification.",
+      "ar": "نهاية الحرب الباردة وإعادة توحيد ألمانيا."
+    }
+  },
+  {
+    "context": {
+      "en": "The Atlantic Ocean separates the Americas from Europe and Africa and is the second-largest ocean in the world.",
+      "ar": "المحيط الأطلسي يفصل الأمريكتين عن أوروبا وأفريقيا وهو ثاني أكبر محيط في العالم."
+    },
+    "question": {
+      "en": "What does the Atlantic Ocean separate?",
+      "ar": "ماذا يفصل المحيط الأطلسي؟"
+    },
+    "answer": {
+      "en": "The Americas from Europe and Africa.",
+      "ar": "الأمريكتين عن أوروبا وأفريقيا."
+    }
+  },
+  {
+    "context": {
+      "en": "Nuclear fission is the process where an atomic nucleus splits into two or more smaller nuclei, releasing energy.",
+      "ar": "الانشطار النووي هو العملية التي تنقسم فيها نواة ذرية إلى نواتين أو أكثر أصغر، مما يطلق الطاقة."
+    },
+    "question": {
+      "en": "What is nuclear fission?",
+      "ar": "ما هو الانشطار النووي؟"
+    },
+    "answer": {
+      "en": "Splitting of an atomic nucleus releasing energy.",
+      "ar": "انقسام نواة ذرية يطلق الطاقة."
+    }
+  },
+  {
+    "context": {
+      "en": "Uranus is tilted on its side, likely due to a massive collision early in its history, giving it a unique rotation.",
+      "ar": "أورانوس مائل على جانبه، على الأرجح بسبب تصادم هائل في تاريخه المبكر، مما يعطيه دورانًا فريدًا."
+    },
+    "question": {
+      "en": "Why is Uranus tilted on its side?",
+      "ar": "لماذا أورانوس مائل على جانبه؟"
+    },
+    "answer": {
+      "en": "Likely due to a massive collision.",
+      "ar": "على الأرجح بسبب تصادم هائل."
+    }
+  },
+  {
+    "context": {
+      "en": "Cancer is a disease characterized by the uncontrolled growth of abnormal cells, which can spread to other parts of the body.",
+      "ar": "السرطان هو مرض يتميز بالنمو غير المنضبط للخلايا غير الطبيعية، والتي يمكن أن تنتشر إلى أجزاء أخرى من الجسم."
+    },
+    "question": {
+      "en": "What is cancer?",
+      "ar": "ما هو السرطان؟"
+    },
+    "answer": {
+      "en": "Uncontrolled growth of abnormal cells.",
+      "ar": "النمو غير المنضبط للخلايا غير الطبيعية."
+    }
+  },
+  {
+    "context": {
+      "en": "A limerick is a five-line poem with a humorous tone and a specific rhyme scheme: AABBA.",
+      "ar": "الليميريك هو قصيدة من خمسة أسطر ذات نبرة فكاهية ونمط قافية محدد: AABBA."
+    },
+    "question": {
+      "en": "What is a limerick?",
+      "ar": "ما هو الليميريك؟"
+    },
+    "answer": {
+      "en": "A five-line humorous poem with an AABBA rhyme scheme.",
+      "ar": "قصيدة فكاهية من خمسة أسطر بنمط قافية AABBA."
+    }
+  },
+  {
+    "context": {
+      "en": "Prednisone is a corticosteroid used to reduce inflammation and suppress the immune system in conditions like allergies and arthritis.",
+      "ar": "البريدنيزون هو كورتيكوستيرويد يستخدم لتقليل الالتهاب وقمع جهاز المناعة في حالات مثل الحساسية والتهاب المفاصل."
+    },
+    "question": {
+      "en": "What is prednisone used for?",
+      "ar": "ما هو استخدام البريدنيزون؟"
+    },
+    "answer": {
+      "en": "To reduce inflammation and suppress the immune system.",
+      "ar": "لتقليل الالتهاب وقمع جهاز المناعة."
+    }
+  },
+  {
+    "context": {
+      "en": "The discovery of America by Christopher Columbus in 1492 marked the beginning of European colonization in the New World.",
+      "ar": "اكتشاف أمريكا بواسطة كريستوفر كولومبوس في عام 1492 مثل بداية الاستعمار الأوروبي في العالم الجديد."
+    },
+    "question": {
+      "en": "Who discovered America in 1492?",
+      "ar": "من اكتشف أمريكا في عام 1492؟"
+    },
+    "answer": {
+      "en": "Christopher Columbus.",
+      "ar": "كريستوفر كولومبوس."
+    }
+  },
+  {
+    "context": {
+      "en": "The Rocky Mountains stretch from Canada to the United States and are known for their rugged terrain and wildlife.",
+      "ar": "جبال روكي تمتد من كندا إلى الولايات المتحدة ومعروفة بتضاريسها الوعرة وحياتها البرية."
+    },
+    "question": {
+      "en": "Where do the Rocky Mountains stretch?",
+      "ar": "أين تمتد جبال روكي؟"
+    },
+    "answer": {
+      "en": "From Canada to the United States.",
+      "ar": "من كندا إلى الولايات المتحدة."
+    }
+  },
+  {
+    "context": {
+      "en": "Photosynthesis in plants produces glucose, which serves as an energy source for growth and development.",
+      "ar": "التمثيل الضوئي في النباتات ينتج الجلوكوز، الذي يعمل كمصدر طاقة للنمو والتطور."
+    },
+    "question": {
+      "en": "What does photosynthesis produce in plants?",
+      "ar": "ماذا ينتج التمثيل الضوئي في النباتات؟"
+    },
+    "answer": {
+      "en": "Glucose.",
+      "ar": "جلوكوز."
+    }
+  },
+  {
+    "context": {
+      "en": "A comet is a small icy body that, when passing near the Sun, heats up and releases gases, forming a visible tail.",
+      "ar": "المذنب هو جسم جليدي صغير، عندما يمر بالقرب من الشمس، يسخن ويطلق غازات، مشكلاً ذيلًا مرئيًا."
+    },
+    "question": {
+      "en": "What is a comet?",
+      "ar": "ما هو المذنب؟"
+    },
+    "answer": {
+      "en": "A small icy body that forms a tail near the Sun.",
+      "ar": "جسم جليدي صغير يشكل ذيلًا بالقرب من الشمس."
+    }
+  },
+  {
+    "context": {
+      "en": "Arthritis is a condition involving inflammation of the joints, causing pain and stiffness.",
+      "ar": "التهاب المفاصل هو حالة تتضمن التهاب المفاصل، مما يسبب الألم والتصلب."
+    },
+    "question": {
+      "en": "What is arthritis?",
+      "ar": "ما هو التهاب المفاصل؟"
+    },
+    "answer": {
+      "en": "Inflammation of the joints causing pain.",
+      "ar": "التهاب المفاصل يسبب الألم."
+    }
+  },
+  {
+    "context": {
+      "en": "Blank verse is unrhymed poetry written in iambic pentameter, often used by Shakespeare.",
+      "ar": "الشعر الفارغ هو شعر غير مقفى مكتوب بنمط خماسي التفعيلة، وغالبًا ما استخدمه شكسبير."
+    },
+    "question": {
+      "en": "What is blank verse?",
+      "ar": "ما هو الشعر الفارغ؟"
+    },
+    "answer": {
+      "en": "Unrhymed poetry in iambic pentameter.",
+      "ar": "شعر غير مقفى بنمط خماسي التفعيلة."
+    }
+  },
+  {
+    "context": {
+      "en": "Atorvastatin is a statin drug used to lower cholesterol levels and reduce the risk of cardiovascular disease.",
+      "ar": "أتورفاستاتين هو دواء ستاتين يستخدم لخفض مستويات الكوليسترول وتقليل مخاطر أمراض القلب والأوعية الدموية."
+    },
+    "question": {
+      "en": "What is atorvastatin used for?",
+      "ar": "ما هو استخدام أتورفاستاتين؟"
+    },
+    "answer": {
+      "en": "To lower cholesterol and reduce cardiovascular risk.",
+      "ar": "لخفض الكوليسترول وتقليل مخاطر القلب والأوعية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh penalties on Germany.",
+      "ar": "معاهدة فرساي، التي وقّعت في عام 1919، أنهت رسميًا الحرب العالمية الأولى وفرضت عقوبات قاسية على ألمانيا."
+    },
+    "question": {
+      "en": "What did the Treaty of Versailles end?",
+      "ar": "ماذا أنهت معاهدة فرساي؟"
+    },
+    "answer": {
+      "en": "World War I.",
+      "ar": "الحرب العالمية الأولى."
+    }
+  },
+  {
+    "context": {
+      "en": "The Indian Ocean is the third-largest ocean in the world, bordered by Asia, Africa, Australia, and the Arctic Ocean.",
+      "ar": "المحيط الهندي هو ثالث أكبر محيط في العالم، ويحده آسيا وأفريقيا وأستراليا والمحيط القطبي الشمالي."
+    },
+    "question": {
+      "en": "What is the third-largest ocean in the world?",
+      "ar": "ما هو ثالث أكبر محيط في العالم؟"
+    },
+    "answer": {
+      "en": "The Indian Ocean.",
+      "ar": "المحيط الهندي."
+    }
+  },
+  {
+    "context": {
+      "en": "The ozone layer is a region of Earth’s stratosphere that absorbs most of the Sun’s ultraviolet radiation.",
+      "ar": "طبقة الأوزون هي منطقة في الستراتوسفير الأرضي تمتص معظم الإشعاع فوق البنفسجي من الشمس."
+    },
+    "question": {
+      "en": "What does the ozone layer do?",
+      "ar": "ماذا تفعل طبقة الأوزون؟"
+    },
+    "answer": {
+      "en": "Absorbs most of the Sun’s ultraviolet radiation.",
+      "ar": "تمتص معظم الإشعاع فوق البنفسجي من الشمس."
+    }
+  },
+  {
+    "context": {
+      "en": "Asteroids are rocky objects orbiting the Sun, mostly found in the asteroid belt between Mars and Jupiter.",
+      "ar": "الكويكبات هي أجسام صخرية تدور حول الشمس، توجد معظمها في حزام الكويكبات بين المريخ والمشتري."
+    },
+    "question": {
+      "en": "Where are most asteroids found?",
+      "ar": "أين توجد معظم الكويكبات؟"
+    },
+    "answer": {
+      "en": "In the asteroid belt between Mars and Jupiter.",
+      "ar": "في حزام الكويكبات بين المريخ والمشتري."
+    }
+  },
+  {
+    "context": {
+      "en": "Osteoporosis is a condition where bones become weak and brittle, increasing the risk of fractures.",
+      "ar": "هشاشة العظام هي حالة تصبح فيها العظام ضعيفة وهشة، مما يزيد من مخاطر الكسور."
+    },
+    "question": {
+      "en": "What is osteoporosis?",
+      "ar": "ما هي هشاشة العظام؟"
+    },
+    "answer": {
+      "en": "A condition where bones become weak and brittle.",
+      "ar": "حالة تصبح فيها العظام ضعيفة وهشة."
+    }
+  },
+  {
+    "context": {
+      "en": "A ballad is a narrative poem or song, often telling a dramatic or romantic story.",
+      "ar": "البالاد هو قصيدة سردية أو أغنية، غالبًا ما تروي قصة درامية أو رومانسية."
+    },
+    "question": {
+      "en": "What is a ballad?",
+      "ar": "ما هو البالاد؟"
+    },
+    "answer": {
+      "en": "A narrative poem or song telling a story.",
+      "ar": "قصيدة سردية أو أغنية تروي قصة."
+    }
+  },
+  {
+    "context": {
+      "en": "Levothyroxine is a synthetic thyroid hormone used to treat hypothyroidism by replacing missing thyroid hormone.",
+      "ar": "ليفوثيروكسين هو هرمون درقي صناعي يستخدم لعلاج قصور الغدة الدرقية عن طريق استبدال الهرمون الدرقي المفقود."
+    },
+    "question": {
+      "en": "What is levothyroxine used for?",
+      "ar": "ما هو استخدام ليفوثيروكسين؟"
+    },
+    "answer": {
+      "en": "To treat hypothyroidism.",
+      "ar": "لعلاج قصور الغدة الدرقية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Renaissance began in Italy in the 14th century, sparked by a revival of interest in classical art and learning.",
+      "ar": "بدأت عصر النهضة في إيطاليا في القرن الرابع عشر، نتيجة إحياء الاهتمام بالفن والتعلم الكلاسيكي."
+    },
+    "question": {
+      "en": "Where did the Renaissance begin?",
+      "ar": "أين بدأت عصر النهضة؟"
+    },
+    "answer": {
+      "en": "Italy.",
+      "ar": "إيطاليا."
+    }
+  },
+  {
+    "context": {
+      "en": "The Amazon River is the second-longest river in the world and has the largest drainage basin, flowing through South America.",
+      "ar": "نهر الأمازون هو ثاني أطول نهر في العالم وله أكبر حوض تصريف، يتدفق عبر أمريكا الجنوبية."
+    },
+    "question": {
+      "en": "What is the second-longest river in the world?",
+      "ar": "ما هو ثاني أطول نهر في العالم؟"
+    },
+    "answer": {
+      "en": "The Amazon River.",
+      "ar": "نهر الأمازون."
+    }
+  },
+  {
+    "context": {
+      "en": "Dark matter is an invisible substance that affects gravity and the structure of the universe but does not emit or absorb light.",
+      "ar": "المادة المظلمة هي مادة غير مرئية تؤثر على الجاذبية وبنية الكون لكنها لا تصدر أو تمتص الضوء."
+    },
+    "question": {
+      "en": "What is dark matter?",
+      "ar": "ما هي المادة المظلمة؟"
+    },
+    "answer": {
+      "en": "An invisible substance affecting gravity and the universe.",
+      "ar": "مادة غير مرئية تؤثر على الجاذبية والكون."
+    }
+  },
+  {
+    "context": {
+      "en": "Mercury is the smallest planet in our solar system and the closest to the Sun, with no atmosphere to regulate temperature.",
+      "ar": "عطارد هو أصغر كوكب في نظامنا الشمسي وأقربها إلى الشمس، بدون غلاف جوي لتنظيم الحرارة."
+    },
+    "question": {
+      "en": "What is the smallest planet in our solar system?",
+      "ar": "ما هو أصغر كوكب في نظامنا الشمسي؟"
+    },
+    "answer": {
+      "en": "Mercury.",
+      "ar": "عطارد."
+    }
+  },
+  {
+    "context": {
+      "en": "A stroke occurs when blood flow to part of the brain is interrupted, causing brain cells to die from lack of oxygen.",
+      "ar": "السكتة الدماغية تحدث عندما ينقطع تدفق الدم إلى جزء من الدماغ، مما يتسبب في موت خلايا الدماغ بسبب نقص الأكسجين."
+    },
+    "question": {
+      "en": "What causes a stroke?",
+      "ar": "ما الذي يسبب السكتة الدماغية؟"
+    },
+    "answer": {
+      "en": "Interrupted blood flow to the brain.",
+      "ar": "انقطاع تدفق الدم إلى الدماغ."
+    }
+  },
+  {
+    "context": {
+      "en": "Assonance is the repetition of vowel sounds in nearby words, often used in poetry for musical effect.",
+      "ar": "التسجيع هو تكرار أصوات الحروف الصوتية في كلمات قريبة، يُستخدم غالبًا في الشعر لأثر موسيقي."
+    },
+    "question": {
+      "en": "What is assonance?",
+      "ar": "ما هو التسجيع؟"
+    },
+    "answer": {
+      "en": "Repetition of vowel sounds in nearby words.",
+      "ar": "تكرار أصوات الحروف الصوتية في كلمات قريبة."
+    }
+  },
+  {
+    "context": {
+      "en": "Simvastatin is a statin drug that lowers cholesterol and reduces the risk of heart attacks and strokes.",
+      "ar": "سيمفاستاتين هو دواء ستاتين يخفض الكوليسترول ويقلل من مخاطر النوبات القلبية والسكتات الدماغية."
+    },
+    "question": {
+      "en": "What is simvastatin used for?",
+      "ar": "ما هو استخدام سيمفاستاتين؟"
+    },
+    "answer": {
+      "en": "To lower cholesterol and reduce heart attack risk.",
+      "ar": "لخفض الكوليسترول وتقليل مخاطر النوبات القلبية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Industrial Revolution began in Britain, driven by innovations like the steam engine and textile machinery.",
+      "ar": "بدأت الثورة الصناعية في بريطانيا، مدفوعة بالابتكارات مثل المحرك البخاري وآلات النسيج."
+    },
+    "question": {
+      "en": "Where did the Industrial Revolution begin?",
+      "ar": "أين بدأت الثورة الصناعية؟"
+    },
+    "answer": {
+      "en": "Britain.",
+      "ar": "بريطانيا."
+    }
+  },
+  {
+    "context": {
+      "en": "The Alps are a major mountain range in Europe, spanning countries like France, Switzerland, and Austria.",
+      "ar": "جبال الألب هي سلسلة جبلية رئيسية في أوروبا، تمتد عبر دول مثل فرنسا وسويسرا والنمسا."
+    },
+    "question": {
+      "en": "What countries do the Alps span?",
+      "ar": "ما هي الدول التي تمتد عبرها جبال الألب؟"
+    },
+    "answer": {
+      "en": "France, Switzerland, and Austria, among others.",
+      "ar": "فرنسا، سويسرا، والنمسا، وغيرها."
+    }
+  },
+  {
+    "context": {
+      "en": "Mitochondria are organelles in cells that produce energy through cellular respiration, often called the powerhouse of the cell.",
+      "ar": "الميتوكوندريا هي عضيات في الخلايا تنتج الطاقة من خلال التنفس الخلوي، وتُسمى غالبًا بمحطة طاقة الخلية."
+    },
+    "question": {
+      "en": "What are mitochondria?",
+      "ar": "ما هي الميتوكوندريا؟"
+    },
+    "answer": {
+      "en": "Organelles that produce energy in cells.",
+      "ar": "عضيات تنتج الطاقة في الخلايا."
+    }
+  },
+  {
+    "context": {
+      "en": "A nebula is a vast cloud of gas and dust in space, often the birthplace of stars.",
+      "ar": "السديم هو سحابة شاسعة من الغاز والغبار في الفضاء، غالبًا ما يكون مكان ولادة النجوم."
+    },
+    "question": {
+      "en": "What is a nebula?",
+      "ar": "ما هو السديم؟"
+    },
+    "answer": {
+      "en": "A cloud of gas and dust, often where stars are born.",
+      "ar": "سحابة من الغاز والغبار، غالبًا حيث تُولد النجوم."
+    }
+  },
+  {
+    "context": {
+      "en": "A heart attack occurs when blood flow to the heart is blocked, often by a clot, damaging heart muscle.",
+      "ar": "النوبة القلبية تحدث عندما يُسد تدفق الدم إلى القلب، غالبًا بجلطة، مما يُتلف عضلة القلب."
+    },
+    "question": {
+      "en": "What causes a heart attack?",
+      "ar": "ما الذي يسبب النوبة القلبية؟"
+    },
+    "answer": {
+      "en": "Blocked blood flow to the heart.",
+      "ar": "انسداد تدفق الدم إلى القلب."
+    }
+  },
+  {
+    "context": {
+      "en": "Graphene is a single layer of carbon atoms arranged in a honeycomb lattice, known for its exceptional strength and conductivity.",
+      "ar": "الغرافين هو طبقة واحدة من ذرات الكربون مرتبة في شبكة على شكل خلية نحل، معروفة بقوتها وتوصيلها الاستثنائي."
+    },
+    "question": {
+      "en": "What is graphene known for?",
+      "ar": "بماذا يشتهر الغرافين؟"
+    },
+    "answer": {
+      "en": "Its strength and conductivity.",
+      "ar": "قوته وتوصيله."
+    }
+  },
+  {
+    "context": {
+      "en": "Pulsars are rapidly rotating neutron stars that emit beams of radiation, observed as regular pulses from Earth.",
+      "ar": "النجوم النابضة هي نجوم نيوترونية تدور بسرعة وتصدر حزمًا من الإشعاع، تُرصد كنبضات منتظمة من الأرض."
+    },
+    "question": {
+      "en": "What are pulsars?",
+      "ar": "ما هي النجوم النابضة؟"
+    },
+    "answer": {
+      "en": "Rotating neutron stars emitting radiation pulses.",
+      "ar": "نجوم نيوترونية تدور وتصدر نبضات إشعاعية."
+    }
+  },
+  {
+    "context": {
+      "en": "Epigenetics studies how gene expression can be altered without changing the DNA sequence, influenced by environment and lifestyle.",
+      "ar": "علم الوراثة اللاجينية يدرس كيف يمكن تغيير تعبير الجينات دون تغيير تسلسل الحمض النووي، متأثرًا بالبيئة ونمط الحياة."
+    },
+    "question": {
+      "en": "What does epigenetics study?",
+      "ar": "ماذا يدرس علم الوراثة اللاجينية؟"
+    },
+    "answer": {
+      "en": "Changes in gene expression without altering DNA.",
+      "ar": "تغييرات في تعبير الجينات دون تغيير الحمض النووي."
+    }
+  },
+  {
+    "context": {
+      "en": "An ode is a lyric poem addressing a particular subject, often with an elevated tone and varied structure.",
+      "ar": "القصيدة الغنائية هي قصيدة تغنائية تتناول موضوعًا معينًا، غالبًا بنبرة مرتفعة وبنية متنوعة."
+    },
+    "question": {
+      "en": "What is an ode?",
+      "ar": "ما هي القصيدة الغنائية؟"
+    },
+    "answer": {
+      "en": "A lyric poem with an elevated tone.",
+      "ar": "قصيدة غنائية بنبرة مرتفعة."
+    }
+  },
+  {
+    "context": {
+      "en": "Probiotics are live microorganisms that provide health benefits when consumed, often improving gut health.",
+      "ar": "البروبيوتيك هي كائنات حية دقيقة توفر فوائد صحية عند تناولها، وغالبًا ما تحسن صحة الأمعاء."
+    },
+    "question": {
+      "en": "What are probiotics?",
+      "ar": "ما هي البروبيوتيك؟"
+    },
+    "answer": {
+      "en": "Live microorganisms that benefit health.",
+      "ar": "كائنات حية دقيقة تفيد الصحة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Silk Road was an ancient trade network connecting East Asia to the Mediterranean, facilitating cultural exchange.",
+      "ar": "طريق الحرير كان شبكة تجارية قديمة تربط شرق آسيا بالبحر الأبيض المتوسط، مما يسهل التبادل الثقافي."
+    },
+    "question": {
+      "en": "What was the Silk Road?",
+      "ar": "ما هو طريق الحرير؟"
+    },
+    "answer": {
+      "en": "An ancient trade network connecting East Asia to the Mediterranean.",
+      "ar": "شبكة تجارية قديمة تربط شرق آسيا بالبحر الأبيض المتوسط."
+    }
+  },
+  {
+    "context": {
+      "en": "The Gobi Desert is a vast arid region in northern China and southern Mongolia, known for its extreme temperatures.",
+      "ar": "صحراء جوبي هي منطقة قاحلة شاسعة في شمال الصين وجنوب منغوليا، معروفة بدرجات حرارتها المتطرفة."
+    },
+    "question": {
+      "en": "Where is the Gobi Desert located?",
+      "ar": "أين تقع صحراء جوبي؟"
+    },
+    "answer": {
+      "en": "Northern China and southern Mongolia.",
+      "ar": "شمال الصين وجنوب منغوليا."
+    }
+  },
+  {
+    "context": {
+      "en": "The multiverse theory suggests that our universe is one of many, each with different physical laws or outcomes.",
+      "ar": "نظرية الأكوان المتعددة تقترح أن كوننا هو واحد من عدة أكوان، كل منها له قوانين فيزيائية أو نتائج مختلفة."
+    },
+    "question": {
+      "en": "What does the multiverse theory propose?",
+      "ar": "ماذا تقترح نظرية الأكوان المتعددة؟"
+    },
+    "answer": {
+      "en": "Multiple universes with different laws or outcomes.",
+      "ar": "أكوان متعددة بقوانين أو نتائج مختلفة."
+    }
+  },
+  {
+    "context": {
+      "en": "Supernovae are explosive deaths of massive stars, releasing vast energy and creating heavy elements.",
+      "ar": "المستعرات العظمى هي انفجارات مميتة للنجوم الضخمة، تطلق طاقة هائلة وتخلق عناصر ثقيلة."
+    },
+    "question": {
+      "en": "What are supernovae?",
+      "ar": "ما هي المستعرات العظمى؟"
+    },
+    "answer": {
+      "en": "Explosive deaths of massive stars.",
+      "ar": "انفجارات مميتة للنجوم الضخمة."
+    }
+  },
+  {
+    "context": {
+      "en": "Microbiota transplantation involves transferring beneficial microbes from a healthy donor to a patient to restore gut health.",
+      "ar": "زراعة الميكروبيوتا تتضمن نقل الميكروبات المفيدة من متبرع سليم إلى مريض لاستعادة صحة الأمعاء."
+    },
+    "question": {
+      "en": "What is microbiota transplantation?",
+      "ar": "ما هي زراعة الميكروبيوتا؟"
+    },
+    "answer": {
+      "en": "Transferring microbes to restore gut health.",
+      "ar": "نقل الميكروبات لاستعادة صحة الأمعاء."
+    }
+  },
+  {
+    "context": {
+      "en": "A sonnet is a 14-line poem with a specific rhyme scheme, traditionally exploring themes of love or beauty.",
+      "ar": "السونيت هو قصيدة من 14 سطرًا بنمط قافية محدد، تتناول تقليديًا موضوعات الحب أو الجمال."
+    },
+    "question": {
+      "en": "What is a sonnet?",
+      "ar": "ما هو السونيت؟"
+    },
+    "answer": {
+      "en": "A 14-line poem with a specific rhyme scheme.",
+      "ar": "قصيدة من 14 سطرًا بنمط قافية محدد."
+    }
+  },
+  {
+    "context": {
+      "en": "Antioxidants are compounds in medications or foods that neutralize free radicals, reducing oxidative stress in the body.",
+      "ar": "مضادات الأكسدة هي مركبات في الأدوية أو الأطعمة تعادل الجذور الحرة، مما يقلل من الإجهاد التأكسدي في الجسم."
+    },
+    "question": {
+      "en": "What do antioxidants do?",
+      "ar": "ماذا تفعل مضادات الأكسدة؟"
+    },
+    "answer": {
+      "en": "Neutralize free radicals to reduce oxidative stress.",
+      "ar": "تعادل الجذور الحرة لتقليل الإجهاد التأكسدي."
+    }
+  },
+  {
+    "context": {
+      "en": "The Han Dynasty ruled China from 202 BCE to 220 CE, known for its advancements in technology and culture.",
+      "ar": "حكمت سلالة هان الصين من 202 قبل الميلاد إلى 220 ميلادية، وهي معروفة بتقدمها في التكنولوجيا والثقافة."
+    },
+    "question": {
+      "en": "What was the Han Dynasty known for?",
+      "ar": "بماذا اشتهرت سلالة هان؟"
+    },
+    "answer": {
+      "en": "Advancements in technology and culture.",
+      "ar": "التقدم في التكنولوجيا والثقافة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Mekong River flows through six countries in Southeast Asia, supporting one of the world's most diverse fisheries.",
+      "ar": "نهر ميكونغ يتدفق عبر ست دول في جنوب شرق آسيا، ويدعم واحدة من أكثر مصايد الأسماك تنوعًا في العالم."
+    },
+    "question": {
+      "en": "What does the Mekong River support?",
+      "ar": "ما الذي يدعم نهر ميكونغ؟"
+    },
+    "answer": {
+      "en": "One of the world's most diverse fisheries.",
+      "ar": "واحدة من أكثر مصايد الأسماك تنوعًا في العالم."
+    }
+  },
+  {
+    "context": {
+      "en": "Synthetic diamonds are created in labs using high-pressure, high-temperature processes, mimicking natural diamond formation.",
+      "ar": "الماس الصناعي يُصنع في المختبرات باستخدام عمليات الضغط العالي والحرارة العالية، مقلدًا تكوين الماس الطبيعي."
+    },
+    "question": {
+      "en": "How are synthetic diamonds made?",
+      "ar": "كيف يُصنع الماس الصناعي؟"
+    },
+    "answer": {
+      "en": "Using high-pressure, high-temperature processes.",
+      "ar": "باستخدام عمليات الضغط العالي والحرارة العالية."
+    }
+  },
+  {
+    "context": {
+      "en": "Quasars are extremely luminous objects powered by supermassive black holes at the centers of distant galaxies.",
+      "ar": "الكوازارات هي أجسام مضيئة للغاية تعمل بقوة الثقوب السوداء الهائلة في مراكز المجرات البعيدة."
+    },
+    "question": {
+      "en": "What powers quasars?",
+      "ar": "ما الذي يمد الكوازارات بالطاقة؟"
+    },
+    "answer": {
+      "en": "Supermassive black holes.",
+      "ar": "الثقوب السوداء الهائلة."
+    }
+  },
+  {
+    "context": {
+      "en": "Autoimmune diseases occur when the immune system mistakenly attacks the body’s own tissues, like in rheumatoid arthritis.",
+      "ar": "الأمراض المناعية الذاتية تحدث عندما يهاجم الجهاز المناعي أنسجة الجسم عن طريق الخطأ، كما في التهاب المفاصل الروماتويدي."
+    },
+    "question": {
+      "en": "What causes autoimmune diseases?",
+      "ar": "ما الذي يسبب الأمراض المناعية الذاتية؟"
+    },
+    "answer": {
+      "en": "The immune system attacking the body’s tissues.",
+      "ar": "الجهاز المناعي يهاجم أنسجة الجسم."
+    }
+  },
+  {
+    "context": {
+      "en": "A sestet is a six-line stanza or poem, often used as part of a larger poetic structure like a sonnet.",
+      "ar": "السداسية هي مقطع أو قصيدة من ستة أسطر، تُستخدم غالبًا كجزء من بنية شعرية أكبر مثل السونيت."
+    },
+    "question": {
+      "en": "What is a sestet?",
+      "ar": "ما هي السداسية؟"
+    },
+    "answer": {
+      "en": "A six-line stanza or poem.",
+      "ar": "مقطع أو قصيدة من ستة أسطر."
+    }
+  },
+  {
+    "context": {
+      "en": "Monoclonal antibodies are lab-made proteins that mimic the immune system to target specific pathogens or cells.",
+      "ar": "الأجسام المضادة أحادية النسيلة هي بروتينات مصنوعة في المختبر تقلد الجهاز المناعي لاستهداف مسببات أمراض أو خلايا معينة."
+    },
+    "question": {
+      "en": "What are monoclonal antibodies?",
+      "ar": "ما هي الأجسام المضادة أحادية النسيلة؟"
+    },
+    "answer": {
+      "en": "Lab-made proteins targeting specific pathogens.",
+      "ar": "بروتينات مصنوعة في المختبر تستهدف مسببات أمراض معينة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Pax Romana was a period of relative peace in the Roman Empire, lasting from 27 BCE to 180 CE.",
+      "ar": "السلام الروماني كان فترة سلام نسبي في الإمبراطورية الرومانية، استمرت من 27 قبل الميلاد إلى 180 ميلادية."
+    },
+    "question": {
+      "en": "What was the Pax Romana?",
+      "ar": "ما هو السلام الروماني؟"
+    },
+    "answer": {
+      "en": "A period of peace in the Roman Empire.",
+      "ar": "فترة سلام في الإمبراطورية الرومانية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Nile Delta is a fertile region in Egypt where the Nile River spreads out before emptying into the Mediterranean Sea.",
+      "ar": "دلتا النيل هي منطقة خصبة في مصر حيث يتفرع نهر النيل قبل أن يصب في البحر الأبيض المتوسط."
+    },
+    "question": {
+      "en": "Where is the Nile Delta located?",
+      "ar": "أين تقع دلتا النيل؟"
+    },
+    "answer": {
+      "en": "In Egypt, where the Nile spreads into the Mediterranean.",
+      "ar": "في مصر، حيث يتفرع النيل إلى البحر الأبيض المتوسط."
+    }
+  },
+  {
+    "context": {
+      "en": "Metamaterials are engineered materials with properties not found in nature, used in optics and electromagnetism.",
+      "ar": "المواد الفوقية هي مواد مصممة هندسيًا بخصائص غير موجودة في الطبيعة، تُستخدم في البصريات والكهرومغناطيسية."
+    },
+    "question": {
+      "en": "What are metamaterials used for?",
+      "ar": "ما استخدام المواد الفوقية؟"
+    },
+    "answer": {
+      "en": "Optics and electromagnetism.",
+      "ar": "البصريات والكهرومغناطيسية."
+    }
+  },
+  {
+    "context": {
+      "en": "Galactic clusters are groups of galaxies bound by gravity, providing insights into the large-scale structure of the universe.",
+      "ar": "التجمعات المجرية هي مجموعات من المجرات مرتبطة بالجاذبية، توفر رؤى حول البنية واسعة النطاق للكون."
+    },
+    "question": {
+      "en": "What are galactic clusters?",
+      "ar": "ما هي التجمعات المجرية؟"
+    },
+    "answer": {
+      "en": "Groups of galaxies bound by gravity.",
+      "ar": "مجموعات من المجرات مرتبطة بالجاذبية."
+    }
+  },
+  {
+    "context": {
+      "en": "Cytokines are small proteins released by cells that regulate immunity and inflammation in the body.",
+      "ar": "السيتوكينات هي بروتينات صغيرة تُطلقها الخلايا لتنظيم المناعة والالتهاب في الجسم."
+    },
+    "question": {
+      "en": "What do cytokines regulate?",
+      "ar": "ماذا تنظم السيتوكينات؟"
+    },
+    "answer": {
+      "en": "Immunity and inflammation.",
+      "ar": "المناعة والالتهاب."
+    }
+  },
+  {
+    "context": {
+      "en": "Blank verse is unrhymed poetry written in iambic pentameter, often used by Shakespeare.",
+      "ar": "الشعر الفارغ هو شعر غير مقفى مكتوب بوزن خماسي التفعيلة، استخدمه شكسبير غالبًا."
+    },
+    "question": {
+      "en": "What is blank verse?",
+      "ar": "ما هو الشعر الفارغ؟"
+    },
+    "answer": {
+      "en": "Unrhymed poetry in iambic pentameter.",
+      "ar": "شعر غير مقفى بوزن خماسي التفعيلة."
+    }
+  },
+  {
+    "context": {
+      "en": "Antacids are medications that neutralize stomach acid to relieve heartburn and indigestion.",
+      "ar": "مضادات الحموضة هي أدوية تعادل حمض المعدة لتخفيف الحرقة والتلبك المعوي."
+    },
+    "question": {
+      "en": "What do antacids do?",
+      "ar": "ماذا تفعل مضادات الحموضة؟"
+    },
+    "answer": {
+      "en": "Neutralize stomach acid.",
+      "ar": "تعادل حمض المعدة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Battle of Waterloo in 1815 marked the final defeat of Napoleon Bonaparte, ending the Napoleonic Wars.",
+      "ar": "معركة واترلو في عام 1815 مثلت الهزيمة النهائية لنابليون بونابرت، منهية الحروب النابليونية."
+    },
+    "question": {
+      "en": "What did the Battle of Waterloo end?",
+      "ar": "ما الذي أنهت معركة واترلو؟"
+    },
+    "answer": {
+      "en": "The Napoleonic Wars.",
+      "ar": "الحروب النابليونية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Patagonia region spans southern Argentina and Chile, known for its rugged landscapes and biodiversity.",
+      "ar": "منطقة باتاغونيا تمتد عبر جنوب الأرجنتين وتشيلي، معروفة بتضاريسها الوعرة وتنوعها البيولوجي."
+    },
+    "question": {
+      "en": "Where is Patagonia located?",
+      "ar": "أين تقع باتاغونيا؟"
+    },
+    "answer": {
+      "en": "Southern Argentina and Chile.",
+      "ar": "جنوب الأرجنتين وتشيلي."
+    }
+  },
+  {
+    "context": {
+      "en": "Photonics is the science of generating, detecting, and manipulating light, used in telecommunications and imaging.",
+      "ar": "الفوتونيات هي علم توليد واكتشاف ومعالجة الضوء، تُستخدم في الاتصالات والتصوير."
+    },
+    "question": {
+      "en": "What is photonics used for?",
+      "ar": "ما استخدام الفوتونيات؟"
+    },
+    "answer": {
+      "en": "Telecommunications and imaging.",
+      "ar": "الاتصالات والتصوير."
+    }
+  },
+  {
+    "context": {
+      "en": "The Kuiper Belt is a region beyond Neptune containing icy bodies and dwarf planets, like Pluto.",
+      "ar": "حزام كايبر هو منطقة خارج نبتون تحتوي على أجسام جليدية وكواكب قزمة، مثل بلوتو."
+    },
+    "question": {
+      "en": "What is the Kuiper Belt?",
+      "ar": "ما هو حزام كايبر؟"
+    },
+    "answer": {
+      "en": "A region beyond Neptune with icy bodies.",
+      "ar": "منطقة خارج نبتون تحتوي على أجسام جليدية."
+    }
+  },
+  {
+    "context": {
+      "en": "Neuroplasticity is the brain’s ability to reorganize itself by forming new neural connections throughout life.",
+      "ar": "المرونة العصبية هي قدرة الدماغ على إعادة تنظيم نفسه عن طريق تكوين اتصالات عصبية جديدة طوال الحياة."
+    },
+    "question": {
+      "en": "What is neuroplasticity?",
+      "ar": "ما هي المرونة العصبية؟"
+    },
+    "answer": {
+      "en": "The brain’s ability to form new neural connections.",
+      "ar": "قدرة الدماغ على تكوين اتصالات عصبية جديدة."
+    }
+  },
+  {
+    "context": {
+      "en": "Free verse is poetry without regular meter or rhyme, allowing greater flexibility in expression.",
+      "ar": "الشعر الحر هو شعر بدون وزن أو قافية منتظمة، مما يتيح مرونة أكبر في التعبير."
+    },
+    "question": {
+      "en": "What is free verse?",
+      "ar": "ما هو الشعر الحر؟"
+    },
+    "answer": {
+      "en": "Poetry without regular meter or rhyme.",
+      "ar": "شعر بدون وزن أو قافية منتظمة."
+    }
+  },
+  {
+    "context": {
+      "en": "Antipyretics are medications that reduce fever by acting on the hypothalamus to lower body temperature.",
+      "ar": "خافضات الحرارة هي أدوية تقلل الحمى عن طريق التأثير على منطقة تحت المهاد لخفض درجة حرارة الجسم."
+    },
+    "question": {
+      "en": "What do antipyretics do?",
+      "ar": "ماذا تفعل خافضات الحرارة؟"
+    },
+    "answer": {
+      "en": "Reduce fever by lowering body temperature.",
+      "ar": "تقلل الحمى بخفض درجة حرارة الجسم."
+    }
+  },
+  {
+    "context": {
+      "en": "The Magna Carta, signed in 1215, was an English charter limiting royal power and establishing legal rights.",
+      "ar": "الماجنا كارتا، التي وقّعت في عام 1215، كانت ميثاقًا إنجليزيًا يحد من السلطة الملكية ويؤسس حقوقًا قانونية."
+    },
+    "question": {
+      "en": "What did the Magna Carta establish?",
+      "ar": "ماذا أسست الماجنا كارتا؟"
+    },
+    "answer": {
+      "en": "Legal rights and limits on royal power.",
+      "ar": "حقوق قانونية وحدود على السلطة الملكية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Coral Triangle is a marine region in Southeast Asia known as the 'Amazon of the seas' for its rich biodiversity.",
+      "ar": "مثلث المرجان هو منطقة بحرية في جنوب شرق آسيا تُعرف بـ'أمازون البحار' لتنوعها البيولوجي الغني."
+    },
+    "question": {
+      "en": "Why is the Coral Triangle called the 'Amazon of the seas'?",
+      "ar": "لماذا يُطلق على مثلث المرجان 'أمازون البحار'؟"
+    },
+    "answer": {
+      "en": "For its rich biodiversity.",
+      "ar": "لتنوعه البيولوجي الغني."
+    }
+  },
+  {
+    "context": {
+      "en": "The anthropic principle suggests that the universe’s physical constants are fine-tuned to allow life as we know it.",
+      "ar": "مبدأ الأنثروبيك يقترح أن الثوابت الفيزيائية للكون مضبوطة بدقة لتسمح بالحياة كما نعرفها."
+    },
+    "question": {
+      "en": "What does the anthropic principle suggest?",
+      "ar": "ماذا يقترح مبدأ الأنثروبيك؟"
+    },
+    "answer": {
+      "en": "The universe’s constants are fine-tuned for life.",
+      "ar": "ثوابت الكون مضبوطة بدقة للحياة."
+    }
+  },
+  {
+    "context": {
+      "en": "Gravitational waves are ripples in spacetime caused by massive accelerating objects, detected by LIGO in 2015.",
+      "ar": "الموجات الجاذبية هي تموجات في الزمكان تسببها أجسام ضخمة متسارعة، تم اكتشافها بواسطة ليغو في 2015."
+    },
+    "question": {
+      "en": "What are gravitational waves?",
+      "ar": "ما هي الموجات الجاذبية؟"
+    },
+    "answer": {
+      "en": "Ripples in spacetime from massive objects.",
+      "ar": "تموجات في الزمكان من أجسام ضخمة."
+    }
+  },
+  {
+    "context": {
+      "en": "The gut-brain axis is the bidirectional communication between the digestive system and the brain, affecting mood and health.",
+      "ar": "محور الأمعاء والدماغ هو التواصل ثنائي الاتجاه بين الجهاز الهضمي والدماغ، يؤثر على المزاج والصحة."
+    },
+    "question": {
+      "en": "What is the gut-brain axis?",
+      "ar": "ما هو محور الأمعاء والدماغ؟"
+    },
+    "answer": {
+      "en": "Communication between the gut and brain.",
+      "ar": "التواصل بين الأمعاء والدماغ."
+    }
+  },
+  {
+    "context": {
+      "en": "An elegy is a mournful poem or song, typically lamenting the death of someone or something.",
+      "ar": "الرثاء هو قصيدة أو أغنية حزينة، عادةً ما ترثي وفاة شخص أو شيء ما."
+    },
+    "question": {
+      "en": "What is an elegy?",
+      "ar": "ما هو الرثاء؟"
+    },
+    "answer": {
+      "en": "A mournful poem lamenting death.",
+      "ar": "قصيدة حزينة ترثي الموت."
+    }
+  },
+  {
+    "context": {
+      "en": "Vasoconstrictors are medications that narrow blood vessels, used to raise blood pressure or reduce swelling.",
+      "ar": "مضيقات الأوعية هي أدوية تضيق الأوعية الدموية، تُستخدم لرفع ضغط الدم أو تقليل التورم."
+    },
+    "question": {
+      "en": "What are vasoconstrictors used for?",
+      "ar": "ما استخدام مضيقات الأوعية؟"
+    },
+    "answer": {
+      "en": "To narrow blood vessels and raise blood pressure.",
+      "ar": "لتضييق الأوعية الدموية ورفع ضغط الدم."
+    }
+  },
+  {
+    "context": {
+      "en": "The French Revolution, beginning in 1789, overthrew the monarchy and established a republic in France.",
+      "ar": "الثورة الفرنسية، التي بدأت في 1789، أطاحت بالنظام الملكي وأسست جمهورية في فرنسا."
+    },
+    "question": {
+      "en": "What did the French Revolution establish?",
+      "ar": "ماذا أسست الثورة الفرنسية؟"
+    },
+    "answer": {
+      "en": "A republic in France.",
+      "ar": "جمهورية في فرنسا."
+    }
+  },
+  {
+    "context": {
+      "en": "The Tibetan Plateau, often called the 'Roof of the World,' is the highest and largest plateau on Earth.",
+      "ar": "هضبة التبت، التي تُسمى غالبًا 'سقف العالم'، هي أعلى وأكبر هضبة على الأرض."
+    },
+    "question": {
+      "en": "What is the Tibetan Plateau called?",
+      "ar": "ما الذي تُسمى به هضبة التبت؟"
+    },
+    "answer": {
+      "en": "The 'Roof of the World.'",
+      "ar": "'سقف العالم.'"
+    }
+  },
+  {
+    "context": {
+      "en": "Optogenetics uses light to control neurons modified with light-sensitive proteins, aiding brain research.",
+      "ar": "البصريات الوراثية تستخدم الضوء للتحكم في الخلايا العصبية المعدلة ببروتينات حساسة للضوء، مما يساعد في أبحاث الدماغ."
+    },
+    "question": {
+      "en": "What does optogenetics control?",
+      "ar": "ماذا تتحكم البصريات الوراثية به؟"
+    },
+    "answer": {
+      "en": "Neurons with light-sensitive proteins.",
+      "ar": "الخلايا العصبية ذات البروتينات الحساسة للضوء."
+    }
+  },
+  {
+    "context": {
+      "en": "The Andromeda Galaxy is the closest spiral galaxy to the Milky Way, approximately 2.5 million light-years away.",
+      "ar": "مجرتا أندروميدا هي أقرب مجرة حلزونية إلى درب التبانة، على بعد حوالي 2.5 مليون سنة ضوئية."
+    },
+    "question": {
+      "en": "What is the closest spiral galaxy to the Milky Way?",
+      "ar": "ما هي أقرب مجرة حلزونية إلى درب التبانة؟"
+    },
+    "answer": {
+      "en": "The Andromeda Galaxy.",
+      "ar": "مجرتا أندروميدا."
+    }
+  },
+  {
+    "context": {
+      "en": "Biomarkers are measurable indicators in the body used to diagnose diseases or monitor treatment progress.",
+      "ar": "المؤشرات الحيوية هي مؤشرات قابلة للقياس في الجسم تُستخدم لتشخيص الأمراض أو مراقبة تقدم العلاج."
+    },
+    "question": {
+      "en": "What are biomarkers used for?",
+      "ar": "ما استخدام المؤشرات الحيوية؟"
+    },
+    "answer": {
+      "en": "Diagnosing diseases and monitoring treatment.",
+      "ar": "تشخيص الأمراض ومراقبة العلاج."
+    }
+  },
+  {
+    "context": {
+      "en": "A quatrain is a four-line stanza with various rhyme schemes, commonly used in poetry.",
+      "ar": "الرباعية هي مقطع من أربعة أسطر بأنماط قافية متنوعة، تُستخدم عادة في الشعر."
+    },
+    "question": {
+      "en": "What is a quatrain?",
+      "ar": "ما هي الرباعية؟"
+    },
+    "answer": {
+      "en": "A four-line stanza with various rhyme schemes.",
+      "ar": "مقطع من أربعة أسطر بأنماط قافية متنوعة."
+    }
+  },
+  {
+    "context": {
+      "en": "Decongestants are medications that relieve nasal congestion by reducing swelling in nasal passages.",
+      "ar": "مزيلات الاحتقان هي أدوية تخفف احتقان الأنف عن طريق تقليل التورم في الممرات الأنفية."
+    },
+    "question": {
+      "en": "What do decongestants relieve?",
+      "ar": "ماذا تخفف مزيلات الاحتقان؟"
+    },
+    "answer": {
+      "en": "Nasal congestion.",
+      "ar": "احتقان الأنف."
+    }
+  },
+  {
+    "context": {
+      "en": "The American Civil War, fought from 1861 to 1865, was a conflict between the northern and southern states over slavery and union.",
+      "ar": "الحرب الأهلية الأمريكية، التي دارت من 1861 إلى 1865، كانت صراعًا بين الولايات الشمالية والجنوبية حول العبودية والاتحاد."
+    },
+    "question": {
+      "en": "What was the American Civil War fought over?",
+      "ar": "على ماذا دارت الحرب الأهلية الأمريكية؟"
+    },
+    "answer": {
+      "en": "Slavery and union.",
+      "ar": "العبودية والاتحاد."
+    }
+  },
+  {
+    "context": {
+      "en": "The Namib Desert in southwestern Africa is one of the oldest deserts, known for its towering sand dunes.",
+      "ar": "صحراء ناميب في جنوب غرب أفريقيا هي واحدة من أقدم الصحاري، معروفة بكثبانها الرملية الشاهقة."
+    },
+    "question": {
+      "en": "What is the Namib Desert known for?",
+      "ar": "بماذا تشتهر صحراء ناميب؟"
+    },
+    "answer": {
+      "en": "Towering sand dunes.",
+      "ar": "كثبان رملية شاهقة."
+    }
+  },
+  {
+    "context": {
+      "en": "Quantum tunneling allows particles to pass through energy barriers they classically shouldn’t, key to technologies like transistors.",
+      "ar": "النفق الكمي يسمح للجسيمات بالمرور عبر حواجز الطاقة التي لا يفترض أن تمر بها كلاسيكيًا، وهو أساسي لتقنيات مثل الترانزستورات."
+    },
+    "question": {
+      "en": "What is quantum tunneling?",
+      "ar": "ما هو النفق الكمي؟"
+    },
+    "answer": {
+      "en": "Particles passing through energy barriers.",
+      "ar": "مرور الجسيمات عبر حواجز الطاقة."
+    }
+  },
+  {
+    "context": {
+      "en": "The Milky Way is our galaxy, a barred spiral with an estimated 100-400 billion stars.",
+      "ar": "درب التبانة هي مجرتنا، مجرة حلزونية مسطحة تحتوي على ما يُقدر بـ 100-400 مليار نجم."
+    },
+    "question": {
+      "en": "What is the Milky Way?",
+      "ar": "ما هي درب التبانة؟"
+    },
+    "answer": {
+      "en": "Our barred spiral galaxy with billions of stars.",
+      "ar": "مجرتنا الحلزونية المسطحة بمليارات النجوم."
+    }
+  },
+  {
+    "context": {
+      "en": "CRISPR interference (CRISPRi) is a technique to silence gene expression without cutting DNA, used in research.",
+      "ar": "تداخل كريسبر (CRISPRi) هو تقنية لإسكات تعبير الجينات دون قطع الحمض النووي، تُستخدم في الأبحاث."
+    },
+    "question": {
+      "en": "What does CRISPR interference do?",
+      "ar": "ماذا يفعل تداخل كريسبر؟"
+    },
+    "answer": {
+      "en": "Silences gene expression without cutting DNA.",
+      "ar": "يسكت تعبير الجينات دون قطع الحمض النووي."
+    }
+  },
+  {
+    "context": {
+      "en": "A tercet is a three-line stanza or poem, often with a single rhyme or linked to other stanzas.",
+      "ar": "الثلاثية هي مقطع أو قصيدة من ثلاثة أسطر، غالبًا مع قافية واحدة أو مرتبطة بمقاطع أخرى."
+    },
+    "question": {
+      "en": "What is a tercet?",
+      "ar": "ما هي الثلاثية؟"
+    },
+    "answer": {
+      "en": "A three-line stanza or poem.",
+      "ar": "مقطع أو قصيدة من ثلاثة أسطر."
+    }
+  },
+  {
+    "context": {
+      "en": "Expectorants are medications that help loosen mucus in the lungs, making it easier to cough up.",
+      "ar": "طاردات البلغم هي أدوية تساعد على تخفيف المخاط في الرئتين، مما يجعل السعال أسهل."
+    },
+    "question": {
+      "en": "What do expectorants help with?",
+      "ar": "ماذا تساعد طاردات البلغم؟"
+    },
+    "answer": {
+      "en": "Loosening mucus in the lungs.",
+      "ar": "تخفيف المخاط في الرئتين."
+    }
+  },
+  {
+    "context": {
+      "en": "The Ottoman Empire, spanning from the 14th to early 20th century, controlled vast regions across three continents.",
+      "ar": "الإمبراطورية العثمانية، التي امتدت من القرن الرابع عشر إلى أوائل القرن العشرين، سيطرت على مناطق شاسعة عبر ثلاث قارات."
+    },
+    "question": {
+      "en": "What did the Ottoman Empire control?",
+      "ar": "ماذا سيطرت عليه الإمبراطورية العثمانية؟"
+    },
+    "answer": {
+      "en": "Vast regions across three continents.",
+      "ar": "مناطق شاسعة عبر ثلاث قارات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Ozark Plateau is a highland region in the central United States, known for its karst topography and springs.",
+      "ar": "هضبة أوزارك هي منطقة مرتفعة في وسط الولايات المتحدة، معروفة بتضاريسها الكارستية وينابيعها."
+    },
+    "question": {
+      "en": "What is the Ozark Plateau known for?",
+      "ar": "بماذا تشتهر هضبة أوزارك؟"
+    },
+    "answer": {
+      "en": "Karst topography and springs.",
+      "ar": "التضاريس الكارستية والينابيع."
+    }
+  },
+  {
+    "context": {
+      "en": "The Casimir effect is a quantum phenomenon where two uncharged plates attract due to vacuum fluctuations.",
+      "ar": "تأثير كازيمير هو ظاهرة كمومية حيث تجذب لوحتان غير مشحونتين بسبب تقلبات الفراغ."
+    },
+    "question": {
+      "en": "What causes the Casimir effect?",
+      "ar": "ما الذي يسبب تأثير كازيمير؟"
+    },
+    "answer": {
+      "en": "Vacuum fluctuations between uncharged plates.",
+      "ar": "تقلبات الفراغ بين لوحتين غير مشحونتين."
+    }
+  },
+  {
+    "context": {
+      "en": "Exoplanets are planets orbiting stars outside our solar system, discovered through methods like transit and radial velocity.",
+      "ar": "الكواكب الخارجية هي كواكب تدور حول نجوم خارج نظامنا الشمسي، تُكتشف بطرق مثل العبور وقياس السرعة الشعاعية."
+    },
+    "question": {
+      "en": "What are exoplanets?",
+      "ar": "ما هي الكواكب الخارجية؟"
+    },
+    "answer": {
+      "en": "Planets orbiting stars outside our solar system.",
+      "ar": "كواكب تدور حول نجوم خارج نظامنا الشمسي."
+    }
+  },
+  {
+    "context": {
+      "en": "Metabolomics studies the small molecules in cells and tissues to understand metabolic processes and disease.",
+      "ar": "علم الأيض يدرس الجزيئات الصغيرة في الخلايا والأنسجة لفهم العمليات الأيضية والأمراض."
+    },
+    "question": {
+      "en": "What does metabolomics study?",
+      "ar": "ماذا يدرس علم الأيض؟"
+    },
+    "answer": {
+      "en": "Small molecules in cells to understand metabolism.",
+      "ar": "الجزيئات الصغيرة في الخلايا لفهم الأيض."
+    }
+  },
+  {
+    "context": {
+      "en": "A villanelle is a 19-line poem with five tercets and a quatrain, featuring repeated lines and two rhymes.",
+      "ar": "الفيلانيل هو قصيدة من 19 سطرًا مع خمس ثلاثيات ورباعية، تتميز بأسطر متكررة وقافيتين."
+    },
+    "question": {
+      "en": "What is the structure of a villanelle?",
+      "ar": "ما هي بنية الفيلانيل؟"
+    },
+    "answer": {
+      "en": "Five tercets and a quatrain with repeated lines.",
+      "ar": "خمس ثلاثيات ورباعية مع أسطر متكررة."
+    }
+  },
+  {
+    "context": {
+      "en": "Antispasmodics are medications that relieve muscle spasms, often used for conditions like irritable bowel syndrome.",
+      "ar": "مضادات التشنج هي أدوية تخفف تشنجات العضلات، تُستخدم غالبًا لحالات مثل متلازمة القولون العصبي."
+    },
+    "question": {
+      "en": "What do antispasmodics treat?",
+      "ar": "ماذا تعالج مضادات التشنج؟"
+    },
+    "answer": {
+      "en": "Muscle spasms.",
+      "ar": "تشنجات العضلات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Crusades were a series of religious wars between Christians and Muslims from the 11th to 13th centuries.",
+      "ar": "الحروب الصليبية كانت سلسلة من الحروب الدينية بين المسيحيين والمسلمين من القرن الحادي عشر إلى الثالث عشر."
+    },
+    "question": {
+      "en": "What were the Crusades?",
+      "ar": "ما هي الحروب الصليبية؟"
+    },
+    "answer": {
+      "en": "Religious wars between Christians and Muslims.",
+      "ar": "حروب دينية بين المسيحيين والمسلمين."
+    }
+  },
+  {
+    "context": {
+      "en": "The Ring of Fire is a major area in the Pacific Ocean basin where most earthquakes and volcanic eruptions occur.",
+      "ar": "حلقة النار هي منطقة رئيسية في حوض المحيط الهادئ حيث تحدث معظم الزلازل والانفجارات البركانية."
+    },
+    "question": {
+      "en": "What happens in the Ring of Fire?",
+      "ar": "ما الذي يحدث في حلقة النار؟"
+    },
+    "answer": {
+      "en": "Most earthquakes and volcanic eruptions.",
+      "ar": "معظم الزلازل والانفجارات البركانية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Haber-Bosch process synthesizes ammonia from nitrogen and hydrogen, revolutionizing fertilizer production.",
+      "ar": "عملية هابر-بوش تصنع الأمونيا من النيتروجين والهيدروجين، مما أحدث ثورة في إنتاج الأسمدة."
+    },
+    "question": {
+      "en": "What does the Haber-Bosch process produce?",
+      "ar": "ماذا تنتج عملية هابر-بوش؟"
+    },
+    "answer": {
+      "en": "Ammonia for fertilizers.",
+      "ar": "الأمونيا للأسمدة."
+    }
+  },
+  {
+    "context": {
+      "en": "Magnetars are neutron stars with extremely powerful magnetic fields, causing intense bursts of radiation.",
+      "ar": "المغناطيسات هي نجوم نيوترونية ذات مجالات مغناطيسية قوية للغاية، تسبب انفجارات إشعاعية مكثفة."
+    },
+    "question": {
+      "en": "What are magnetars?",
+      "ar": "ما هي المغناطيسات؟"
+    },
+    "answer": {
+      "en": "Neutron stars with powerful magnetic fields.",
+      "ar": "نجوم نيوترونية ذات مجالات مغناطيسية قوية."
+    }
+  },
+  {
+    "context": {
+      "en": "Proteomics is the large-scale study of proteins to understand their structures, functions, and interactions.",
+      "ar": "علم البروتينات هو دراسة واسعة النطاق للبروتينات لفهم هياكلها ووظائفها وتفاعلاتها."
+    },
+    "question": {
+      "en": "What does proteomics study?",
+      "ar": "ماذا يدرس علم البروتينات؟"
+    },
+    "answer": {
+      "en": "Protein structures, functions, and interactions.",
+      "ar": "هياكل البروتينات ووظائفها وتفاعلاتها."
+    }
+  },
+  {
+    "context": {
+      "en": "An epigram is a short, witty poem or statement, often with a surprising twist.",
+      "ar": "القول المأثور هو قصيدة أو بيان قصير وذكي، غالبًا مع تطور مفاجئ."
+    },
+    "question": {
+      "en": "What is an epigram?",
+      "ar": "ما هو القول المأثور؟"
+    },
+    "answer": {
+      "en": "A short, witty poem with a twist.",
+      "ar": "قصيدة قصيرة وذكية مع تطور."
+    }
+  },
+  {
+    "context": {
+      "en": "Antitussives are medications that suppress coughing, used to treat dry or unproductive coughs.",
+      "ar": "مضادات السعال هي أدوية تكبح السعال، تُستخدم لعلاج السعال الجاف أو غير المنتج."
+    },
+    "question": {
+      "en": "What do antitussives treat?",
+      "ar": "ماذا تعالج مضادات السعال؟"
+    },
+    "answer": {
+      "en": "Dry or unproductive coughs.",
+      "ar": "السعال الجاف أو غير المنتج."
+    }
+  },
+  {
+    "context": {
+      "en": "The Great Wall of China, built over centuries, was designed to protect against invasions and define borders.",
+      "ar": "سور الصين العظيم، الذي بُني على مدى قرون، صُمم لحماية ضد الغزوات وتحديد الحدود."
+    },
+    "question": {
+      "en": "What was the Great Wall of China designed for?",
+      "ar": "ما الذي صُمم سور الصين العظيم من أجله؟"
+    },
+    "answer": {
+      "en": "Protection against invasions and border definition.",
+      "ar": "الحماية ضد الغزوات وتحديد الحدود."
+    }
+  },
+  {
+    "context": {
+      "en": "The Kamchatka Peninsula in Russia is known for its volcanic activity and unique wildlife.",
+      "ar": "شبه جزيرة كامتشاتكا في روسيا معروفة بنشاطها البركاني وحياتها البرية الفريدة."
+    },
+    "question": {
+      "en": "What is the Kamchatka Peninsula known for?",
+      "ar": "بماذا تشتهر شبه جزيرة كامتشاتكا؟"
+    },
+    "answer": {
+      "en": "Volcanic activity and unique wildlife.",
+      "ar": "النشاط البركاني والحياة البرية الفريدة."
+    }
+  },
+  {
+    "context": {
+      "en": "The greenhouse effect traps heat in Earth’s atmosphere due to gases like carbon dioxide, warming the planet.",
+      "ar": "تأثير الاحتباس الحراري يحبس الحرارة في الغلاف الجوي للأرض بسبب غازات مثل ثاني أكسيد الكربون، مما يسخن الكوكب."
+    },
+    "question": {
+      "en": "What causes the greenhouse effect?",
+      "ar": "ما الذي يسبب تأثير الاحتباس الحراري؟"
+    },
+    "answer": {
+      "en": "Gases like carbon dioxide trapping heat.",
+      "ar": "غازات مثل ثاني أكسيد الكربون تحبس الحرارة."
+    }
+  },
+  {
+    "context": {
+      "en": "White dwarfs are the remnants of low- to medium-mass stars, dense and no longer undergoing fusion.",
+      "ar": "الأقزام البيضاء هي بقايا النجوم ذات الكتلة المنخفضة إلى المتوسطة، كثيفة ولم تعد تخضع للاندماج."
+    },
+    "question": {
+      "en": "What are white dwarfs?",
+      "ar": "ما هي الأقزام البيضاء؟"
+    },
+    "answer": {
+      "en": "Dense remnants of low- to medium-mass stars.",
+      "ar": "بقايا كثيفة للنجوم ذات الكتلة المنخفضة إلى المتوسطة."
+    }
+  },
+  {
+    "context": {
+      "en": "The endocannabinoid system regulates physiological processes like mood, appetite, and pain through cannabinoid receptors.",
+      "ar": "النظام القنبي الداخلي ينظم العمليات الفسيولوجية مثل المزاج والشهية والألم من خلال مستقبلات القنب."
+    },
+    "question": {
+      "en": "What does the endocannabinoid system regulate?",
+      "ar": "ماذا ينظم النظام القنبي الداخلي؟"
+    },
+    "answer": {
+      "en": "Mood, appetite, and pain.",
+      "ar": "المزاج والشهية والألم."
+    }
+  },
+  {
+    "context": {
+      "en": "A ghazal is a poetic form with rhyming couplets and a refrain, often exploring love or longing.",
+      "ar": "الغزل هو شكل شعري مع أبيات مقفاة ولازمة، يتناول غالبًا الحب أو الشوق."
+    },
+    "question": {
+      "en": "What themes does a ghazal explore?",
+      "ar": "ما الموضوعات التي يتناولها الغزل؟"
+    },
+    "answer": {
+      "en": "Love or longing.",
+      "ar": "الحب أو الشوق."
+    }
+  },
+  {
+    "context": {
+      "en": "Hypnotics are medications that induce sleep, used to treat insomnia or prepare for medical procedures.",
+      "ar": "المنومات هي أدوية تحفز النوم، تُستخدم لعلاج الأرق أو التحضير للإجراءات الطبية."
+    },
+    "question": {
+      "en": "What do hypnotics induce?",
+      "ar": "ماذا تحفز المنومات؟"
+    },
+    "answer": {
+      "en": "Sleep.",
+      "ar": "النوم."
+    }
+  },
+  {
+    "context": {
+      "en": "The Russian Revolution of 1917 overthrew the Tsarist autocracy and led to the rise of the Soviet Union.",
+      "ar": "الثورة الروسية عام 1917 أطاحت بالاستبداد القيصري وأدت إلى ظهور الاتحاد السوفيتي."
+    },
+    "question": {
+      "en": "What did the Russian Revolution lead to?",
+      "ar": "إلى ماذا أدت الثورة الروسية؟"
+    },
+    "answer": {
+      "en": "The rise of the Soviet Union.",
+      "ar": "ظهور الاتحاد السوفيتي."
+    }
+  },
+  {
+    "context": {
+      "en": "The Loire Valley in France is known for its Renaissance chateaux and extensive vineyards.",
+      "ar": "وادي لوار في فرنسا معروف بقصور عصر النهضة وكروم العنب الواسعة."
+    },
+    "question": {
+      "en": "What is the Loire Valley known for?",
+      "ar": "بماذا يشتهر وادي لوار؟"
+    },
+    "answer": {
+      "en": "Renaissance chateaux and vineyards.",
+      "ar": "قصور عصر النهضة وكروم العنب."
+    }
+  },
+  {
+    "context": {
+      "en": "Cold fusion is a hypothetical type of nuclear fusion occurring at low temperatures, still unproven experimentally.",
+      "ar": "الاندماج البارد هو نوع افتراضي من الاندماج النووي يحدث عند درجات حرارة منخفضة، لم يثبت تجريبيًا بعد."
+    },
+    "question": {
+      "en": "What is cold fusion?",
+      "ar": "ما هو الاندماج البارد؟"
+    },
+    "answer": {
+      "en": "Hypothetical nuclear fusion at low temperatures.",
+      "ar": "اندماج نووي افتراضي عند درجات حرارة منخفضة."
+    }
+  },
+  {
+    "context": {
+      "en": "Brown dwarfs are substellar objects too massive to be planets but not massive enough to sustain hydrogen fusion like stars.",
+      "ar": "الأقزام البنية هي أجسام دون نجمية كبيرة جدًا لتكون كواكب ولكنها ليست كبيرة بما يكفي للحفاظ على اندماج الهيدروجين مثل النجوم."
+    },
+    "question": {
+      "en": "What are brown dwarfs?",
+      "ar": "ما هي الأقزام البنية؟"
+    },
+    "answer": {
+      "en": "Substellar objects between planets and stars.",
+      "ar": "أجسام دون نجمية بين الكواكب والنجوم."
+    }
+  },
+  {
+    "context": {
+      "en": "The lymphatic system is a network of vessels and nodes that helps maintain fluid balance and immunity.",
+      "ar": "الجهاز الليمفاوي هو شبكة من الأوعية والعقد التي تساعد في الحفاظ على توازن السوائل والمناعة."
+    },
+    "question": {
+      "en": "What does the lymphatic system maintain?",
+      "ar": "ماذا يحافظ عليه الجهاز الليمفاوي؟"
+    },
+    "answer": {
+      "en": "Fluid balance and immunity.",
+      "ar": "توازن السوائل والمناعة."
+    }
+  },
+  {
+    "context": {
+      "en": "Concrete poetry arranges words visually on the page to reflect the poem’s subject or theme.",
+      "ar": "الشعر الملموس يرتب الكلمات بصريًا على الصفحة ليعكس موضوع القصيدة أو فكرتها."
+    },
+    "question": {
+      "en": "What is concrete poetry?",
+      "ar": "ما هو الشعر الملموس؟"
+    },
+    "answer": {
+      "en": "Poetry with words arranged visually.",
+      "ar": "شعر بكلمات مرتبة بصريًا."
+    }
+  },
+  {
+    "context": {
+      "en": "Laxatives are medications that promote bowel movements, used to treat constipation.",
+      "ar": "الملينات هي أدوية تعزز حركة الأمعاء، تُستخدم لعلاج الإمساك."
+    },
+    "question": {
+      "en": "What do laxatives treat?",
+      "ar": "ماذا تعالج الملينات؟"
+    },
+    "answer": {
+      "en": "Constipation.",
+      "ar": "الإمساك."
+    }
+  },
+  {
+    "context": {
+      "en": "The Age of Exploration, from the 15th to 17th centuries, saw European powers expand globally through maritime discovery.",
+      "ar": "عصر الاستكشاف، من القرن الخامس عشر إلى السابع عشر، شهد توسع القوى الأوروبية عالميًا من خلال الاكتشاف البحري."
+    },
+    "question": {
+      "en": "What happened during the Age of Exploration?",
+      "ar": "ماذا حدث خلال عصر الاستكشاف؟"
+    },
+    "answer": {
+      "en": "European powers expanded through maritime discovery.",
+      "ar": "توسعت القوى الأوروبية من خلال الاكتشاف البحري."
+    }
+  },
+  {
+    "context": {
+      "en": "The Galápagos Islands are an archipelago off Ecuador, famous for their role in Darwin’s theory of evolution.",
+      "ar": "جزر غالاباغوس هي أرخبيل قبالة الإكوادور، مشهورة بدورها في نظرية داروين للتطور."
+    },
+    "question": {
+      "en": "Why are the Galápagos Islands famous?",
+      "ar": "لماذا تشتهر جزر غالاباغوس؟"
+    },
+    "answer": {
+      "en": "Their role in Darwin’s theory of evolution.",
+      "ar": "دورها في نظرية داروين للتطور."
+    }
+  },
+  {
+    "context": {
+      "en": "Superfluidity is a state where a fluid flows without viscosity, observed in liquid helium at very low temperatures.",
+      "ar": "الفائقية السائلة هي حالة حيث يتدفق السائل بدون لزوجة، تُلاحظ في الهيليوم السائل عند درجات حرارة منخفضة جدًا."
+    },
+    "question": {
+      "en": "What is superfluidity?",
+      "ar": "ما هي الفائقية السائلة؟"
+    },
+    "answer": {
+      "en": "A fluid flowing without viscosity.",
+      "ar": "سائل يتدفق بدون لزوجة."
+    }
+  },
+  {
+    "context": {
+      "en": "Gamma-ray bursts are intense flashes of gamma rays from distant cosmic events, like collapsing stars.",
+      "ar": "انفجارات أشعة غاما هي ومضات مكثفة من أشعة غاما من أحداث كونية بعيدة، مثل النجوم المنهارة."
+    },
+    "question": {
+      "en": "What causes gamma-ray bursts?",
+      "ar": "ما الذي يسبب انفجارات أشعة غاما؟"
+    },
+    "answer": {
+      "en": "Distant cosmic events like collapsing stars.",
+      "ar": "أحداث كونية بعيدة مثل النجوم المنهارة."
+    }
+  },
+  {
+    "context": {
+      "en": "The circadian rhythm is the body’s internal clock, regulating sleep-wake cycles over a 24-hour period.",
+      "ar": "الإيقاع اليومي هو ساعة الجسم الداخلية، تنظم دورات النوم واليقظة على مدى 24 ساعة."
+    },
+    "question": {
+      "en": "What does the circadian rhythm regulate?",
+      "ar": "ماذا ينظم الإيقاع اليومي؟"
+    },
+    "answer": {
+      "en": "Sleep-wake cycles.",
+      "ar": "دورات النوم واليقظة."
+    }
+  },
+  {
+    "context": {
+      "en": "Found poetry creates poems from existing texts, like newspapers or manuals, by rearranging words.",
+      "ar": "الشعر المكتشف يخلق قصائد من نصوص موجودة، مثل الصحف أو الكتيبات، بإعادة ترتيب الكلمات."
+    },
+    "question": {
+      "en": "How is found poetry created?",
+      "ar": "كيف يُخلق الشعر المكتشف؟"
+    },
+    "answer": {
+      "en": "By rearranging words from existing texts.",
+      "ar": "بإعادة ترتيب الكلمات من نصوص موجودة."
+    }
+  },
+  {
+    "context": {
+      "en": "Anticonvulsants are medications that prevent or reduce seizures, used in epilepsy management.",
+      "ar": "مضادات الاختلاج هي أدوية تمنع أو تقلل النوبات، تُستخدم في إدارة الصرع."
+    },
+    "question": {
+      "en": "What do anticonvulsants prevent?",
+      "ar": "ماذا تمنع مضادات الاختلاج؟"
+    },
+    "answer": {
+      "en": "Seizures.",
+      "ar": "النوبات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Vietnam War, from 1955 to 1975, was a Cold War-era conflict between communist and anti-communist forces.",
+      "ar": "حرب فيتنام، من 1955 إلى 1975، كانت صراعًا في عصر الحرب الباردة بين القوى الشيوعية ومضادات الشيوعية."
+    },
+    "question": {
+      "en": "What was the Vietnam War?",
+      "ar": "ما هي حرب فيتنام؟"
+    },
+    "answer": {
+      "en": "A Cold War-era conflict between communist and anti-communist forces.",
+      "ar": "صراع في عصر الحرب الباردة بين القوى الشيوعية ومضادات الشيوعية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Yucatán Peninsula in Mexico is known for its Mayan ruins and unique cenotes, or natural sinkholes.",
+      "ar": "شبه جزيرة يوكاتان في المكسيك معروفة بآثار المايا وسنوتاتها الفريدة، أو الحفر الطبيعية."
+    },
+    "question": {
+      "en": "What is the Yucatán Peninsula known for?",
+      "ar": "بماذا تشتهر شبه جزيرة يوكاتان؟"
+    },
+    "answer": {
+      "en": "Mayan ruins and cenotes.",
+      "ar": "آثار المايا والسنوتات."
+    }
+  },
+  {
+    "context": {
+      "en": "Geoengineering explores large-scale interventions to combat climate change, like solar radiation management.",
+      "ar": "الهندسة الجيولوجية تستكشف تدخلات واسعة النطاق لمكافحة تغير المناخ، مثل إدارة الإشعاع الشمسي."
+    },
+    "question": {
+      "en": "What does geoengineering combat?",
+      "ar": "ماذا تكافح الهندسة الجيولوجية؟"
+    },
+    "answer": {
+      "en": "Climate change.",
+      "ar": "تغير المناخ."
+    }
+  },
+  {
+    "context": {
+      "en": "The Local Group is a collection of over 54 galaxies, including the Milky Way and Andromeda, bound by gravity.",
+      "ar": "المجموعة المحلية هي تجمع يضم أكثر من 54 مجرة، بما في ذلك درب التبانة وأندروميدا، مرتبطة بالجاذبية."
+    },
+    "question": {
+      "en": "What is the Local Group?",
+      "ar": "ما هي المجموعة المحلية؟"
+    },
+    "answer": {
+      "en": "A collection of over 54 galaxies including the Milky Way.",
+      "ar": "تجمع يضم أكثر من 54 مجرة بما في ذلك درب التبانة."
+    }
+  },
+  {
+    "context": {
+      "en": "The placebo effect occurs when a patient improves due to belief in a treatment, not the treatment itself.",
+      "ar": "تأثير الدواء الوهمي يحدث عندما يتحسن المريض بسبب إيمانه بالعلاج، وليس العلاج نفسه."
+    },
+    "question": {
+      "en": "What causes the placebo effect?",
+      "ar": "ما الذي يسبب تأثير الدواء الوهمي؟"
+    },
+    "answer": {
+      "en": "Belief in a treatment.",
+      "ar": "الإيمان بالعلاج."
+    }
+  },
+  {
+    "context": {
+      "en": "A haiku is a traditional Japanese poem with a 5-7-5 syllable structure, often capturing a moment in nature.",
+      "ar": "الهيكو هو قصيدة يابانية تقليدية بنية 5-7-5 مقطعية، غالبًا تلتقط لحظة في الطبيعة."
+    },
+    "question": {
+      "en": "What is the structure of a haiku?",
+      "ar": "ما هي بنية الهيكو؟"
+    },
+    "answer": {
+      "en": "5-7-5 syllables.",
+      "ar": "5-7-5 مقاطع."
+    }
+  },
+  {
+    "context": {
+      "en": "Antiseptics are substances applied to living tissue to prevent infection by inhibiting microbial growth.",
+      "ar": "المطهرات هي مواد تُطبق على الأنسجة الحية لمنع العدوى عن طريق تثبيط نمو الميكروبات."
+    },
+    "question": {
+      "en": "What do antiseptics prevent?",
+      "ar": "ماذا تمنع المطهرات؟"
+    },
+    "answer": {
+      "en": "Infection by inhibiting microbial growth.",
+      "ar": "العدوى عن طريق تثبيط نمو الميكروبات."
+    }
+  },
+  {
+    "context": {
+      "en": "The Space Race was a 20th-century competition between the US and Soviet Union to achieve spaceflight milestones.",
+      "ar": "سباق الفضاء كان منافسة في القرن العشرين بين الولايات المتحدة والاتحاد السوفيتي لتحقيق إنجازات في رحلات الفضاء."
+    },
+    "question": {
+      "en": "What was the Space Race?",
+      "ar": "ما هو سباق الفضاء؟"
+    },
+    "answer": {
+      "en": "A competition for spaceflight milestones.",
+      "ar": "منافسة لتحقيق إنجازات في رحلات الفضاء."
+    }
+  },
+  {
+    "context": {
+      "en": "The Great Plains in North America are a broad expanse of flat land, known for agriculture and grasslands.",
+      "ar": "السهول العظمى في أمريكا الشمالية هي امتداد واسع من الأراضي المسطحة، معروفة بالزراعة والمراعي."
+    },
+    "question": {
+      "en": "What are the Great Plains known for?",
+      "ar": "بماذا تشتهر السهول العظمى؟"
+    },
+    "answer": {
+      "en": "Agriculture and grasslands.",
+      "ar": "الزراعة والمراعي."
+    }
+  },
+  {
+    "context": {
+      "en": "Bioluminescence is the production of light by living organisms, like fireflies, through chemical reactions.",
+      "ar": "الإضاءة الحيوية هي إنتاج الضوء بواسطة الكائنات الحية، مثل اليراعات، من خلال تفاعلات كيميائية."
+    },
+    "question": {
+      "en": "What is bioluminescence?",
+      "ar": "ما هي الإضاءة الحيوية؟"
+    },
+    "answer": {
+      "en": "Light production by living organisms.",
+      "ar": "إنتاج الضوء بواسطة الكائنات الحية."
+    }
+  },
+  {
+    "context": {
+      "en": "The Virgo Cluster is a nearby group of galaxies, influencing the motion of the Local Group.",
+      "ar": "تجمع العذراء هو مجموعة قريبة من المجرات، تؤثر على حركة المجموعة المحلية."
+    },
+    "question": {
+      "en": "What is the Virgo Cluster?",
+      "ar": "ما هو تجمع العذراء؟"
+    },
+    "answer": {
+      "en": "A nearby group of galaxies.",
+      "ar": "مجموعة قريبة من المجرات."
+    }
+  },
+  {
+    "context": {
+      "en": "Allergies occur when the immune system overreacts to harmless substances, triggering symptoms like sneezing or rashes.",
+      "ar": "الحساسية تحدث عندما يتفاعل الجهاز المناعي بشكل مفرط مع مواد غير ضارة، مما يسبب أعراضًا مثل العطس أو الطفح الجلدي."
+    },
+    "question": {
+      "en": "What causes allergies?",
+      "ar": "ما الذي يسبب الحساسية؟"
+    },
+    "answer": {
+      "en": "The immune system overreacting to harmless substances.",
+      "ar": "تفاعل الجهاز المناعي المفرط مع مواد غير ضارة."
+    }
+  },
+  {
+    "context": {
+      "en": "A sestina is a complex 39-line poem with six stanzas of six lines and a three-line envoi, repeating end-words.",
+      "ar": "السستينا هي قصيدة معقدة من 39 سطرًا مع ستة مقاطع من ستة أسطر وثلاثة أسطر ختامية، تكرر كلمات النهاية."
+    },
+    "question": {
+      "en": "What is a sestina?",
+      "ar": "ما هي السستينا؟"
+    },
+    "answer": {
+      "en": "A 39-line poem with repeating end-words.",
+      "ar": "قصيدة من 39 سطرًا مع كلمات نهاية متكررة."
+    }
+  },
+  {
+    "context": {
+      "en": "Anticholinergics block acetylcholine in the nervous system, used to treat conditions like overactive bladder.",
+      "ar": "مضادات الكولين تمنع الأسيتيل كولين في الجهاز العصبي، تُستخدم لعلاج حالات مثل المثانة المفرطة النشاط."
+    },
+    "question": {
+      "en": "What do anticholinergics block?",
+      "ar": "ماذا تمنع مضادات الكولين؟"
+    },
+    "answer": {
+      "en": "Acetylcholine in the nervous system.",
+      "ar": "الأسيتيل كولين في الجهاز العصبي."
+    }
+  },
+  {
+    "context": {
+      "en": "The War of 1812 was fought between the United States and Britain over trade and territorial issues.",
+      "ar": "حرب 1812 دارت بين الولايات المتحدة وبريطانيا حول قضايا التجارة والأراضي."
+    },
+    "question": {
+      "en": "What was the War of 1812 fought over?",
+      "ar": "على ماذا دارت حرب 1812؟"
+    },
+    "answer": {
+      "en": "Trade and territorial issues.",
+      "ar": "قضايا التجارة والأراضي."
+    }
+  },
+  {
+    "context": {
+      "en": "The Dead Sea, bordered by Jordan and Palestine, is one of the saltiest bodies of water, allowing people to float easily.",
+      "ar": "البحر الميت، المحاط بالأردن وفلسطين، هو أحد أكثر المسطحات المائية ملوحة، مما يسمح للناس بالطفو بسهولة."
+    },
+    "question": {
+      "en": "Why can people float easily in the Dead Sea?",
+      "ar": "لماذا يمكن للناس الطفو بسهولة في البحر الميت؟"
+    },
+    "answer": {
+      "en": "Due to its high salt content.",
+      "ar": "بسبب محتواه العالي من الملح."
+    }
+  }
+]
